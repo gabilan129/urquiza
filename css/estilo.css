@@ -1,0 +1,603 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: fantasy;
+    font-size: 20px;
+
+}
+
+/*simepre usar esta propiedad para resetar el css predeterminado de la pagina*/
+
+
+
+
+body {
+    background-color: rgb(216, 219, 221);
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    grid-template-columns: 1fr;
+    animation-name: fondo;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+    animation-duration: 10s;
+    animation-delay: 0s;
+
+}
+
+
+
+h2 {
+    font-family: fantasy;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+
+
+footer {
+    display: flex;
+    justify-items: end;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    color: white;
+    background-color: rgb(91, 116, 131);
+    padding: 0px 0px;
+    margin-bottom: 0px;
+    height: 30vh;
+}
+
+/*CLASES*/
+
+.logo {
+
+
+    width: 100px;
+
+    
+
+}
+
+
+.header__contenedor {
+    opacity: 0.9;
+    background-color: rgb(10, 153, 163);
+    padding: auto;
+    position: fixed;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+
+
+
+}
+
+.nav__li {
+
+    display: inline;
+    font-size: 30px;
+    margin: 40px 40px;
+
+}
+
+
+
+.nav__li--contacto {
+    width: 75px;
+}
+
+
+.nav__li--logoEmpresas {
+    width: 200px;
+}
+
+.main {
+    display: grid;
+    grid-template-rows: 1fr 24rem 8rem;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+
+.main__titulo {
+    display: flex;
+    text-shadow: rgb(69, 124, 196) 5px 2px 54px;
+    font-size: 5rem;
+    text-align: center;
+    font-family: fantasy;
+    margin-top: 40px;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+.main__section--one {
+    margin-top: 200px;
+    display: grid;
+    grid-template-rows: auto 5fr auto;
+    gap: 10rem;
+    justify-items: center;
+}
+
+
+
+
+.main__imagenes {
+    width: 100%;
+}
+
+
+
+
+
+
+.main__div__taller--index {
+    gap: 10px;
+    margin: auto;
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* justify-content: center; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    width: 50%;
+}
+
+
+
+
+
+.main__section-parrafo {
+
+
+
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    font-family: fantasy;
+
+}
+
+
+
+.main__logoCNRT {
+
+    width: 600px;
+
+
+
+}
+
+
+
+
+
+.footer__logo--redes {
+    width: 50px;
+}
+
+
+
+.section__table {
+
+    margin: auto;
+    font-size: 20px;
+
+
+}
+
+.section__table--div {
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: fantasy;
+
+}
+
+
+
+
+
+.formulario {
+    background-color: white;
+
+    border: 2px solid;
+    border-color: black;
+    border-radius: 1em;
+    font-family: fantasy;
+    /* margin: auto; */
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 2rem;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    background-color: aliceblue;
+}
+
+
+
+
+
+/* .div__contacto{
+    display: flex;
+    align-items:center;
+    margin: auto;
+    text-align:center;
+    background-color: red;
+    width: 100%;
+} */
+
+.main__contacto {
+    padding-top: 150px;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+
+}
+
+.div__texto {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+
+
+}
+
+.div__main__logoCNRT {
+    width: 100%;
+}
+
+
+.div__section__dos__index {
+    display: grid;
+    justify-items: center;
+    grid-template-rows: 1fr;
+    justify-content: center;
+
+}
+
+.main__section--one--micros {
+    display: grid;
+    grid-template-rows: 1fr 20px;
+}
+
+.div__micros__section--one {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    margin-top: 300px;
+    margin-bottom: 0px;
+}
+
+.main__div--imagenes {
+    width: 100%;
+}
+
+
+
+.div_taller--uno {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.div_taller--dos {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+
+.main__section--two {
+    display: grid;
+    grid-template-rows: 1fr;
+    gap: 10px;
+}
+
+
+.main__titulo--micros {
+    display: flex;
+    text-shadow: rgb(69, 124, 196) 5px 2px 54px;
+    font-size: 5rem;
+    text-align: center;
+    font-family: fantasy;
+    padding: 40px;
+    justify-content: center;
+}
+
+h1 {
+    animation-name: opacidad;
+    animation-duration: 2s;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+}
+
+
+/*ANIMACIONES*/
+
+@keyframes opacidad {
+    0%{ opacity: 0;}
+    50% {opacity: 0.5;}
+    100% { opacity: 1;}
+}
+
+@keyframes fondo {
+    0% {
+        background-color: rgb(250, 31, 2);
+    }
+
+    10% {
+        background-color: rgb(146, 29, 175); 
+    }
+
+    20% {
+        background-color: rgb(236, 22, 236);
+    }
+
+    30% {
+        background-color: rgb(233, 44, 10);
+    }
+
+    40% {
+        background-color: rgb(233, 77, 15);
+    }
+
+    50% {
+        background-color: rgb(7, 3, 219);
+    }
+
+    60% {
+        background-color: rgb(245, 100, 17);
+    }
+
+    70% {
+        background-color: rgb(141, 236, 15);
+    }
+
+    80% {
+        background-color: rgb(233, 229, 10);
+    }
+
+    90% {
+        background-color: rgb(238, 102, 11);
+    }
+
+    100% {
+        background-color: rgb(235, 36, 10);
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
+
+.mapa {
+    width: 100vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*RESPONSIVE*/
+
+
+@media screen and (max-width: 480px) {
+
+
+    .formulario {
+        background-color: white;
+
+        border: 2px solid;
+        border-color: black;
+        border-radius: 1em;
+        font-family: fantasy;
+        /* margin: auto; */
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        padding: 2rem;
+        margin-top: 60px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+
+
+    .header__contenedor {
+        align-items: baseline;
+        display: grid;
+        grid-template-rows: repeat(5, 5rem);
+        align-items: center;
+        justify-items: center;
+        position: static;
+        width: 100vh;
+    }
+
+
+
+
+    .main__div__taller--index {
+
+        margin: auto;
+        /* display: flex; */
+        /* flex-direction: row; */
+        /* justify-content: center; */
+        display: grid;
+        grid-template-columns: 1fr;
+
+        width: 70vh;
+    }
+
+
+
+
+
+
+    .mapouter {
+        display: none;
+    }
+
+
+    footer {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        color: white;
+        background-color: rgb(91, 116, 131);
+        align-content: flex-end;
+        margin-bottom: 0px;
+        /*pruba*/
+
+        position: static;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+
+
+    }
+
+
+    .div__main__titulo {
+
+        width: 70vh;
+    }
+
+    .main__titulo {
+        display: flex;
+        flex-wrap: wrap;
+        width: 70vh;
+    }
+
+    .main__logoCNRT {
+        width: 60vh;
+    }
+
+
+
+    .video__cnrt {
+        margin-bottom: 50px;
+    }
+
+
+
+}
+
+
+
+@media screen and (max-width: 360px) {
+
+
+    .header__contenedor {
+        align-items: baseline;
+        display: grid;
+        grid-template-rows: repeat(5, 5rem);
+        align-items: center;
+        justify-items: center;
+        position: static;
+        width: 100vh;
+    }
+
+
+
+
+    .main__div__taller--index {
+        gap: 10px;
+        margin: auto;
+        /* display: flex; */
+        /* flex-direction: row; */
+        /* justify-content: center; */
+        display: grid;
+        grid-template-columns: 1fr;
+
+        width: 70vh;
+    }
+
+
+
+
+
+
+    .mapouter {
+        display: none;
+    }
+
+
+    footer {
+        display: flex;
+        justify-content: space-around;
+        justify-content: end;
+        align-items: center;
+        flex-direction: column;
+        color: white;
+        background-color: rgb(91, 116, 131);
+
+        margin-bottom: 0px;
+        /*pruba*/
+
+        position: static;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+
+
+    }
+
+
+    .div__main__titulo {
+
+        width: 70vh;
+    }
+
+    .main__titulo {
+        display: flex;
+        flex-wrap: wrap;
+        width: 70vh;
+    }
+
+    .main__logoCNRT {
+        width: 60vh;
+    }
+
+
+
+    .video__cnrt {
+        margin-bottom: 50px;
+    }
+
+
+
+}

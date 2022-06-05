@@ -1,0 +1,541 @@
+01:07:37	Yanina Redruello:	Buenass!
+01:07:44	nahuel leite:	buenas noches
+01:07:45	Enzo Marotti Orozco:	Buenas noches
+01:07:47	Guido Bombini:	Buenas
+01:07:51	[TUTOR] Ignacio Curto:	Buenas nochessss 👋
+01:07:54	Guido Bombini:	que poca gente
+01:08:16	Fernando Lozano:	PUEDE PASAR EL LINK DE LA CARPETA
+01:08:36	Ronald Vargas:	Buenas noches a todos!
+01:08:38	José Amador:	https://docs.google.com/presentation/d/1vlhvmjz9CnPekHjO03mpG9t30ZFNd_RTf-8xEoVMbII/preview?slide=id.gf309c5b7b3_0_12
+01:08:40	nahuel leite:	no tanto por que tenemos dos trabajos para entregar jaja
+01:08:40	Aldana Elpiner:	buenas noches, necesito despejarme la duda si para hoy hay entrega de grids, en la pagina del curso me figura que es la semana que viene y que para hoy no hay entregas
+01:08:41	Guido Bombini:	https://drive.google.com/drive/u/0/folders/1bIc_MuyFz-GENgCY6X-x9Cf7R_th8H2e
+01:08:46	Ronald Vargas:	Gracias
+01:08:48	Lautaro Saltiva:	Buenas nochess
+01:08:49	Emiliano Casanova:	Buenas tardes!
+01:08:49	Agustin Artero:	que tal! buenas noches
+01:09:06	[TUTOR] Ignacio Curto:	Esta clase les va a gustar! Es divertida jaja
+01:09:25	Ronald Vargas:	😃
+01:09:33	nahuel leite:	👍 mejor
+01:09:36	juanjooo:	ahora empieza lo chido
+01:09:48	Agustin Molina:	Buenas!
+01:10:00	Mauro Nicolás:	Buenas Noches!!!!
+01:11:05	Nelson Campa:	Buenas noches!
+01:11:19	Jonathan Giordano:	comparta el link de nuevo por favor
+01:11:27	Guido Bombini:	fua
+01:12:09	[TUTOR]Victor Hernandez:	Buenas!
+01:12:09	Jonathan Giordano:	ya lo encontré gracias
+01:12:41	Guido Bombini:	volvieron las entregas jaja
+01:12:51	Franco Hermosilla Melo:	ehhh? git tiene entrega de proyecto final ?
+01:13:33	Franco Hermosilla Melo:	Ah bueno
+01:13:39	Franco Hermosilla Melo:	😁
+01:13:55	nahuel leite:	adios vacas :/
+01:16:34	Gian Franco Catania:	Se puede hacer Shader ??
+01:16:46	Guido Bombini:	nose si soy yo pero escucho bajo de volumen la voz
+01:17:03	[TUTOR] Ignacio Curto:	Mmm te referís a sombras Gian?
+01:17:03	Martin Capriata:	creo sos vos.. yo lo escucho como siempre
+01:17:12	Guido Bombini:	a bueno, perdon
+01:17:42	[Tutor] José Luis Koller:	Es la practica mas comun digamos
+01:18:03	Gian Franco Catania:	Va por ese camino Ignacio, cambiar visualmente por código. Cmoo suceden en los videojuegos.
+01:18:27	Emiliano Casanova:	solamente a mi me anda mal la plataforma?
+01:18:47	[TUTOR] Ignacio Curto:	Claro, no eso no se puede porque ya es muuucho mas complejo para hacer hacer en un sitio
+01:19:17	[TUTOR] Ignacio Curto:	En estas horas suele estar re saturada Emi, dale un tiempo que debería funcionar mejor
+01:19:24	Gian Franco Catania:	Genial! Es bueno saber eso :)
+01:19:28	Emiliano Casanova:	Ah de una, gracias Ignacio
+01:19:58	Franco Recoaro:	falta el to
+01:20:01	lucas vallejos:	le falta direccion
+01:20:02	Nicolás Pradella:	le falta la dirección?
+01:20:02	Gian Franco Catania:	#gra no tiene left
+01:20:03	Guido Bombini:	No tiene orientación?
+01:20:05	Nicolás Druetta:	esta de arriba a abajo
+01:20:06	Ariel Lomes:	bottom
+01:20:06	carlos condori:	falta la direccion
+01:20:10	Rodrigo Martinez:	el id??
+01:20:16	Isidora Senn:	el id es grid
+01:20:18	Patricio Borda:	grad
+01:20:18	Mariano Buffil:	el nombre
+01:20:18	Jonathan Giordano:	mal escrito
+01:20:20	Nicolás Javier SCARAFIA:	es diferente
+01:20:23	Guido Bombini:	aaaaaaa
+01:20:24	Denise Gebruers:	no aplica
+01:20:25	Rodrigo Martinez:	no asa nada
+01:20:26	Pedro Rabbia:	no hay css
+01:20:26	Nicolás Javier SCARAFIA:	no se pasa la propiedad
+01:20:27	Pedro Rabbia:	jajajaja
+01:20:28	Jeremias Mera:	NO FUNCION
+01:20:29	nahuel leite:	ah pero ni me di cuenta jajaja
+01:20:31	Guido Bombini:	pensé que era algo mas complejo ajaja
+01:20:33	Mariano Buffil:	explota todo
+01:20:34	Jonathan Giordano:	jaja si nos pasa a todos eso
+01:20:35	Alvaro Prado Tenorio:	buena
+01:20:38	[Tutor] Matías Ezequiel Espinosa:	mal esccribido  jaj
+01:21:01	Angel  Aguilera:	igual el ID era para dejar al JS no? me refiero a que deberia de usar las clases, ademas del error ortografico jaja
+01:21:10	Guido Bombini:	toma una gama gradualmente hacia abajo?
+01:21:10	Nicolás Javier SCARAFIA:	se pueden pasar mas de 2 colores?
+01:21:20	[TUTOR] Ignacio Curto:	Se puede!
+01:21:30	Alvaro Prado Tenorio:	Osea en el eje y no es necesario poner to?
+01:22:02	[Tutor] Matías Ezequiel Espinosa:	gradient generator, siempre hay un generator para todo ❤️
+01:22:18	Guido Bombini:	literalmente, existe todo
+01:22:44	Jonathan Giordano:	https://uigradients.com/#FreshTurboscent yo usaba está pag para hacer eso :P
+01:22:45	Alvaro Prado Tenorio:	interesante
+01:22:57	José Amador:	https://cssgradient.io/
+01:23:18	[Tutor] Lionel Almaida:	https://www.eggradients.com
+01:24:50	Guido Bombini:	para que lo usaríamos el gradiente?
+01:25:09	Jonathan Giordano:	para un fondo lindo para tu HTML :P
+01:25:11	Alvaro Prado Tenorio:	Para fondos supongo
+01:25:13	[Tutor] Lionel Almaida:	En cualquier lado donde usarías un color plano
+01:25:15	[TUTOR] Ignacio Curto:	En algunos diseños lo podes aplicar Guido, depende puramente del proyecto
+01:25:22	[Tutor] Lionel Almaida:	Puede ir en texto capaz
+01:25:26	[Tutor] Lionel Almaida:	Mil cosas
+01:25:39	[Tutor] Lionel Almaida:	Depende de su creatividad
+01:26:02	Patricio Borda:	metes una barrita de carga y lo podes usar ahi por ej
+01:26:03	Jonathan Giordano:	se lo podes aplicar a un <a>? ej un icono o una imagen ?
+01:26:42	(Tutora) Nazarena Troisi:	https://dribbble.com/shots/5492890-Landing-centexus-Full-Preview/attachments/1188282
+01:26:44	(Tutora) Nazarena Troisi:	un ejemplo
+01:26:49	[TUTOR] Ignacio Curto:	Mmmm ya para eso deberías modificar el icono o la imagen en un editor aparte Jonathan
+01:27:04	[TUTOR] Ignacio Curto:	O le podes poner un gradiente tipo overlay, por encima pero a veces no queda como queres
+01:27:30	Jonathan Giordano:	Gracias a los dos , buena pagina
+01:27:38	Denise Gebruers:	Gracias Naza!
+01:27:56	Juan José Bascuñan:	que es un webkit?
+01:28:29	Angel  Aguilera:	no es necesario poner la  propiedad de background-imagen en CSS, y solo poner background?
+01:28:37	Angel  Aguilera:	para el gradiente
+01:28:40	Franco Recoaro:	como tabulas para que quede todo correcto?
+01:28:51	Emiliano Casanova:	con tab xd
+01:28:59	Paul Corrales:	jajaja hasta se ve bonito
+01:29:00	Alvaro Prado Tenorio:	se ve chido
+01:29:07	[Tutor] Lionel Almaida:	Shift + Alt + F croe que es el autoindentado que acomoda todo
+01:29:21	Franco Recoaro:	Gracias!
+01:29:35	Gabriel Carranza:	profe puede pasar la pagina de los coetes que hizo ?
+01:29:44	(Tutora) Nazarena Troisi:	https://www.transparenttextures.com/
+01:29:50	(Tutora) Nazarena Troisi:	esta es para texturas
+01:30:35	Ronald Vargas:	Gracias Nazarena
+01:31:37	Juan José Bascuñan:	porque hay colores vibran en la pantalla?
+01:34:50	Jonathan Giordano:	dos puntos
+01:34:52	Jonathan Giordano:	en el color
+01:34:59	Ariel Corrado:	solid
+01:35:00	carlos condori:	solid?
+01:35:03	joaquinboussard:	solid
+01:35:09	Ignacio Perrote:	solid?
+01:35:14	Alvaro Prado Tenorio:	xd
+01:36:13	Alvaro Prado Tenorio:	solo puedo tomar 2 valores?
+01:37:01	Jonathan Giordano:	uno para eje X y el segundo para eje Y
+01:37:08	Juan José Bascuñan:	se adecua al espacio del contenido
+01:37:48	Alvaro Prado Tenorio:	se puede tomar números negativos entonces
+01:38:08	(Tutora) Nazarena Troisi:	en esto si
+01:38:41	[TUTOR]Jean Baladi:	transform tiene varias funciones muy flasheras, inclusos podemos lograr efectos 3d
+01:38:53	Jonathan Giordano:	que significa deg ?
+01:38:56	[TUTOR]Jean Baladi:	es cuestión que se pongan un dia a jugar probándolas
+01:39:00	Angel  Aguilera:	se podria darle un z-index para que le de la sensacion de que pasa por atras del otro bloque?
+01:39:05	Pedro Rabbia:	degrees= gradis
+01:39:08	[TUTOR] Ignacio Curto:	degrees = grados Jonathan
+01:39:09	Pedro Rabbia:	grados*
+01:39:09	[Tutor] Lionel Almaida:	degrees. Grados, por la inclinación
+01:39:13	Jonathan Giordano:	THX
+01:39:25	Gian Franco Catania:	Se rota en euler o quaternion ?
+01:39:38	Guido Bombini:	no entendí el deg
+01:40:00	Patricio Borda:	son los grados que queres que rote tu objeto
+01:40:27	Martin Capriata:	"deg" es por "degrees" ("grados" en ingles)
+01:40:44	Martin Capriata:	en vez de poner 90° pones 90deg
+01:41:00	Gian Franco Catania:	Entonces utiliza Euler
+01:41:26	[Tutor] Matías Ezequiel Espinosa:	el efecto glitch queda muy genial tambien
+01:41:34	[Tutor] Matías Ezequiel Espinosa:	tienen muchos ejemplos en la web
+01:42:12	lucas vallejos:	esas medidas pueden ser en fr, em , rem , px, %, etc?
+01:42:31	[TUTOR] Ignacio Curto:	No, son números enteros nomás
+01:42:38	lucas vallejos:	perfecto, gracias
+01:42:43	nekempleke:	Buenas noches! Recién llego del trabajo
+01:43:08	Ariel Lomes:	se rompe el diseño
+01:43:17	Ariel Lomes:	aah
+01:43:52	Jonathan Giordano:	para eso no usas el hober ?
+01:44:44	M. Ulises Tassi:	hola buenas noches, disculpen la demora salí más tarde del trabajo y recién me puedo conectar. tengo el presente??
+01:45:07	Guido Bombini:	el transform solo funciona con figuras?
+01:45:08	Diego Nicolas Gallardo:	redondo?
+01:45:40	[TUTOR]Jean Baladi:	el transform funciona en textos, imágenes, cajas
+01:45:45	[TUTOR] Ignacio Curto:	Hablale a tu tutor/a para saber si pasó las asistencias Ulises!
+01:45:57	Alvaro Prado Tenorio:	Esta bueno para practicar con figuras
+01:45:58	M. Ulises Tassi:	Will do, gracias
+01:46:37	Diego Nicolas Gallardo:	hover
+01:46:55	Juan José Bascuñan:	es una pseudoclase
+01:47:23	Kael Yorio:	con videos tmb ?
+01:47:32	Nicolás Druetta:	Profe hay tormenta en donde vivo y no se cuanto tiempo mas tenga luz, aviso por la asistencia😅
+01:47:51	Pedro Rabbia:	que lindo q es Latam
+01:47:52	Pedro Rabbia:	jajajja
+01:47:53	lucio enricci:	decime que vivis en un pueblo sin decirme que vivis en un pueblo
+01:48:27	Nicolás Druetta:	F
+01:50:13	Angel  Aguilera:	por donde vivo si hace mucho calor es normal que se corte la luz por los aires jajjaja
+01:50:18	Angel  Aguilera:	momento conurbano
+01:50:38	Constanza Bravi:	jjaajjajja
+01:52:12	Jonathan Giordano:	eso es confuso =S porque no va en el div :hover
+01:52:30	Alvaro Prado Tenorio:	Osea va dar un efecto en esos 2 seg practicamente
+01:52:33	Diego Nicolas Gallardo:	tengo que usar un indicador transitions por cada propiedad que quiero que tenga un tiempo de transición?
+01:52:42	[TUTOR] Ignacio Curto:	Porque sino se activa solo en el hover, entonces cuando sacas el cursor vuelve instantáneamente
+01:52:59	[TUTOR] Ignacio Curto:	Si Diegoo
+01:53:00	Jonathan Giordano:	buena lógica gracias
+01:53:01	[TUTOR]Jean Baladi:	claro, para lograr una suavidad en la animación
+01:53:52	[Tutor] Matías Ezequiel Espinosa:	vamaaaa
+01:53:52	Juan Ignacio Bocchi:	vamos river
+01:53:53	[TUTOR]Jean Baladi:	jajaja
+01:53:56	nahuel leite:	jajajaja
+01:53:56	Fernando Lozano:	jajjaja
+01:53:56	Maximiliano Di Stefano:	jajaja
+01:53:57	lucas vallejos:	ajajajajajajaj
+01:53:58	Pedro Rabbia:	que frio me da esa pagina
+01:53:58	[Tutor] Matías Ezequiel Espinosa:	te amo profeeeee
+01:53:59	Franco Billordo:	jassajsjasa
+01:53:59	Pedro Rabbia:	jajajjaa
+01:54:01	Mauro Alvarez:	la del rayo vayecano
+01:54:08	Ulises Sangla:	la de peru
+01:54:10	Emiliano Casanova:	la peruana
+01:54:11	Lautaro Saltiva:	la de guaraní Antonio franco
+01:54:16	Angel  Aguilera:	hizo transicion de pagina a freezer
+01:54:22	Mariano Buffil:	🥶
+01:54:22	David Sánchez Rafael:	la de la selección de perú
+01:54:23	Franco Recoaro:	jajajajajajaja
+01:54:23	Martin Utrera:	que frioooooooo jaja
+01:54:27	[Tutor] Matías Ezequiel Espinosa:	cuanto rencor en sus palbras chicos
+01:54:30	Alejandro Albarracin:	jajajajaja
+01:54:31	Guido Bombini:	se puede hacer eso con un nav?
+01:54:32	Maximiliano Monzón:	se me freezo el monitor
+01:54:33	Constanza Bravi:	⚰️⚰️⚰️⚰️⚰️⚰️⚰️
+01:54:38	Alejandro Albarracin:	🥶
+01:54:48	Gian Franco Catania:	Me recuerba a una B
+01:54:53	[Tutor] Bruno Simone:	Acuérdense de que el profe les corrige la entrega final! jajaja
+01:54:55	Martin Utrera:	que cuando pase, ensima aparesca la letra B.
+01:55:01	Juan Ignacio Bocchi:	09/12/18
+01:55:01	Jonathan Giordano:	jajajajaja
+01:55:06	Tiago Bareiro:	De River a Banfield
+01:55:14	Diego Nicolas Gallardo:	por favor, un ejemplo de transición con dos propiedades?
+01:55:15	Paul Corrales:	cambia como cambian de camisetas jaja
+01:55:21	Emiliano Casanova:	26 de junio del 2011
+01:55:24	Angel  Aguilera:	era banfield todo este tiempo
+01:55:25	Diego Nicolas Gallardo:	aahh
+01:55:27	Franco Recoaro:	el contenedor se agranda al mismo tiempo que el elemento modificado?
+01:55:34	Paul Corrales:	el domingo se pusieron la de tigre
+01:55:38	Maximiliano Monzón:	y para que transicione un texto a otro?
+01:55:42	Alvaro Prado Tenorio:	Está bueno ese efecto
+01:55:46	(Tutora) Nazarena Troisi:	podría ser que cuando pase el mouse gire y a su vez se agrande
+01:55:53	[Tutor] Matías Ezequiel Espinosa:	🔨 orden en la sala..
+01:56:05	(Tutora) Nazarena Troisi:	o se agrande y quede en blanco y negro en la imagen de una galeria
+01:56:32	[Tutor] Matías Ezequiel Espinosa:	☝️
+01:56:34	[Tutor] Matías Ezequiel Espinosa:	muy bueno
+01:57:02	[TUTOR]Jean Baladi:	Pueden intentar la animación que tiene Netflix, agrandar y mostrar texto
+01:57:21	Franco Recoaro:	Cuando le aplico a un elemento por ejemplo al hover un height mas grande que el height mismo contenedor padre, se agranda el contenedor padre?
+01:57:24	Gian Franco Catania:	filter: grayscale(0);
+01:57:27	[Tutor] José Luis Koller:	Aca es cuando tienen que dejar volar la imaginacion
+01:57:37	Diego Nicolas Gallardo:	con display none aplica?
+01:57:49	Tiago Bareiro:	En el caso de volver una foto a blanco y negro que propiedad habría que aplicar?
+01:57:59	Juan Ignacio Bocchi:	si
+01:58:00	[TUTOR]Jean Baladi:	si profe
+01:58:00	Jonathan Giordano:	si lo vemos
+01:58:01	Roberto Ponczko:	si
+01:58:01	Nicolás Druetta:	si
+01:58:01	Fernando Lozano:	si
+01:58:02	Ronald Vargas:	si
+01:58:02	Alvaro Prado Tenorio:	yes
+01:58:03	Rodrigo Ariel Canuto DiNasso:	si
+01:58:31	Gian Franco Catania:	filter: grayscale(0); Vuelve a su color original.filter: grayscale(100); Cambia a blanco y negro.
+01:58:48	Tiago Bareiro:	Gracias Rey!
+01:58:54	Jonathan Giordano:	eso tenes en tu pagina Gian Franco ?
+01:59:03	Jonathan Giordano:	quedo muy bueno ese efecto
+01:59:13	Gian Franco Catania:	Un placer! Al 100 le poner el porcentaje
+01:59:25	Gian Franco Catania:	Sí, en mi Proyecto lo tengo aplicado.
+01:59:29	Gian Franco Catania:	Muchas gracais desarrolladores
+01:59:34	Diego Nicolas Gallardo:	yo quería saber como aplica al display  none
+01:59:42	Juan José Bascuñan:	no
+01:59:47	Guido Bombini:	tengo que ordenar las ideas
+01:59:48	Diego Nicolas Gallardo:	el transicion
+01:59:51	Jonathan Giordano:	si profe por que pones el all: 3seg ?
+02:00:05	Fernando Lozano:	para que todo dure 3s
+02:00:10	Diego Nicolas Gallardo:	en el contexto del trasicion
+02:00:16	Franco Recoaro:	Profe, si el height del contenedor es mas chico que el height que le aplico a la propiedad hover, sobrepasa del mismo?
+02:00:28	Jonathan Giordano:	pero debería hacer todo loq agregas en la subclass sin poner el "all"
+02:01:32	(Tutora) Nazarena Troisi:	https://codepen.io/tollelle/pen/bwRYWj
+02:01:43	Diego Nicolas Gallardo:	en el contexto del transicion
+02:01:45	(Tutora) Nazarena Troisi:	Aca tienen muchos ejemplos de transiciones
+02:01:49	lucas vallejos:	podrias mostrar como se veria con texto adentro, o que cuando hagamos hover se vea texto
+02:02:09	Franco Recoaro:	Gracias
+02:02:13	Jonathan Giordano:	huy! gracias Naza
+02:03:54	[Tutor] Lionel Almaida:	💥 Asistencia pasada mi grupo!
+❗ Melina Bustos si estás conectada avisame. Gracias.-
+02:04:38	(Tutora) Nazarena Troisi:	https://www.alessioatzeni.com/wp-content/tutorials/html-css/CSS3-Hover-Effects/index_4.html#
+02:04:44	(Tutora) Nazarena Troisi:	estos son geniales
+02:05:10	Erick Jurupe:	ya estamos en break cierto?
+02:05:15	[TUTOR] Ignacio Curto:	Perdon el spam el link es enorme pero acá tienen más! https://codepen.io/nxworld/pen/ZYNOBZ?__cf_chl_captcha_tk__=55eaa1fec8f62a1d44b695f6500aa8186adee33b-1619281664-0-AekkecsziE7Fqn_dZneze-O4gYrMmfn-iFykrVwWADSXcTSdRW6r6zKUqwhIILVQqVk87y8ZrDwMnMSP9dqWkmftZV_moCVffNMqKWVub8_KFpVifFTr9_fngqZGoycNi2lCEVcmsfZ0xKysC8LNcJBFoEx7qogke0YhfXq9tkOC2XiKDPlAesqPeboZcCW7ZVbjpLk4AY9KVINnR4xVfjOJg-Sc4IvTY6uwVs7TqS004WEYOWsYugqX0LudJWNGJ2OXJ_Mrzs6VawzzbILrIRATZwMvAL9uh9oav8L1KtBqVnZadawZVye-s_dqi5OTf6WtEr6i42os6Sh_klj5z39nRio0UAYus_7TAaxV0jNYajsB9D2TZTGI1wim9SFCOpZ7rFsO3U8lxAA0ezFw6Uv37t30ozdEW9BDqXyb0so-dwlRmhT2PgKzYBZtcR9yOVuxE7GAMZsNJDC8eDVVag7LqU5gfVLNLw_yd4o1woj6AJsnl8NPnLL-OcTCFo7NP2gl5bX4eRGx_t5KGpfIDXC5jPb2CnL1Ze4ufGHOrQulR2s8djzbETt1i-mxbpgt3jVjEI819OYUumNEVCOEoVBr1at3keJphlymKD8K4JQIhMt_KqWAFXbfBq5JHCUwET9XR8pQHsk8GCB2SCXIO56hQQbLmAsNxUhSvfMu6uch
+02:05:15	Gabriel Carranza:	no le faltan los : desp del display ?
+02:05:32	(Tutora) Nazarena Troisi:	https://webdesign.tutsplus.com/es/tutorials/how-to-create-different-css-hover-effects-from-scratch--cms-34222
+02:05:32	Diego Nicolas Gallardo:	ahhh
+02:05:36	Diego Nicolas Gallardo:	con opaciy
+02:05:37	(Tutora) Nazarena Troisi:	esta me parece lo màs!
+02:05:48	(Tutora) Nazarena Troisi:	para redes sociales quedo genial
+02:07:34	Jonathan Giordano:	Aprovecho el break para agradecer , muy atentos los tutores , el profe y unos genios mis compas como se ponen las pilas con el grupo de wp y de Discord
+02:08:11	Diego Nicolas Gallardo:	me gustaría entrar al grupo de whatsapp
+02:08:22	Paul Corrales:	Una pregunta, con respecto a el trabajo que tenemos que entregar el martes que viene. Hay que cambiar lo que hicimos y utilizar flex y grids?? O con agregar mas cosas y utilizar lo ya mencionado esta bien??
+02:09:16	Sharon Furaz Haendel:	como se hace con hover para abrir la lista de navegacion, que se despliegue..?
+02:09:42	[TUTOR] Ignacio Curto:	Lo vemos mejor en la clase de Bootstrap a eso porque se necesita un poco de JS!
+02:10:11	Sharon Furaz Haendel:	oh oka
+02:10:20	[TUTOR] Ignacio Curto:	No hace falta que quites todo lo anterior Paul, es mejor que vayas incorporando lo que vimos con flex y grid a la par
+02:10:51	Paul Corrales:	gracias nachoooo genio!!
+02:11:57	Jonathan Giordano:	pregunta cuando pones estilos sobre una etiqueta con estilos . todo el primero , se sobreescribe o q pasa ? :P
+02:12:15	Jonathan Giordano:	toma el primero ? o lo sobreescribe esa es la pregunta
+02:12:30	[Tutor] Lionel Almaida:	Depende de las jerarquías. Si hay class, ID, !importants, o no...
+02:12:58	[Tutor] Matías Ezequiel Espinosa:	ASISTENCIA PASADA ✅
+02:12:59	Jonathan Giordano:	por jerarquía es de mas valor un class o un ID ?
+02:13:00	[Tutor] Lionel Almaida:	Hay que ver cómo está declarado todo en el estilo
+02:13:10	[Tutor] Lionel Almaida:	ID > Class
+02:13:15	Jonathan Giordano:	tyy
+02:13:43	[Tutor] Matías Ezequiel Espinosa:	COMO ATACARON A RIVER PROFE...ya los anote a todos, 0.5 puntos abajo el  final, no?
+02:13:50	Juan José Bascuñan:	las gradientes se van a ver bien en todas las pantallas?
+02:13:55	lucas vallejos:	jose
+02:14:04	[Tutor] Matías Ezequiel Espinosa:	jajajajajaj
+02:14:21	lucas vallejos:	cuando dejas el hover , porque vuelve a tomar el color rectangular?
+02:15:15	Gian Franco Catania:	Estamos en break ?¿Qué le dice un .GIF a un .JPEG? -Anímate viejo. :D
+02:15:30	Jonathan Giordano:	jaja xD
+02:15:38	Juan José Bascuñan:	gracias
+02:15:38	[TUTOR]Victor Hernandez:	xD
+02:16:02	Gian Franco Catania:	Ya que estamos en animaciónn ;D
+02:16:06	Emiliano Casanova:	🧐
+02:16:14	Clara Figueroa:	Hola, hice una pregunta a mi tutor por el chat de la plataforma. Aun no me califican uno de mis desafíos.
+02:16:21	Juan José Bascuñan:	jajaj
+02:16:22	Denise Gebruers:	Buen capitulo😬
+02:16:47	lucas vallejos:	como se hacían antes los dibujos animados ajajaj
+02:17:21	Jonathan Giordano:	por eso el "Coderhouse" de la plataforma tiene imagen en cada letra ? eso me llamo la atención cuando inspeccione la plataforma
+02:17:24	Gian Franco Catania:	¿Usa interpolación?
+02:19:25	[TUTOR]Victor Hernandez:	Hola Paul
+02:19:29	[TUTOR]Victor Hernandez:	buenisimo
+02:19:36	[TUTOR]Victor Hernandez:	ahí te tomo la asistenica
+02:19:48	[TUTOR]Victor Hernandez:	perdón lo envie al publico jaja
+02:20:00	[TUTOR]Jean Baladi:	menos mal no era nada grave jaja
+02:20:14	[TUTOR]Victor Hernandez:	jajajaja
+02:20:30	Ronald Vargas:	Tardaría mas el proceso de carga de la pagina al usuario con las animaciones?
+02:20:36	Paul Corrales:	no entendia nada jaja se ve que hay mas de un Paul
+02:21:04	[TUTOR] Ignacio Curto:	No Ronald, no afecta tanto al rendimiento
+02:21:22	Ronald Vargas:	Genial! Gracias Ignacio
+02:21:24	[TUTOR]Jean Baladi:	Puedes visualizar la demora que puede llegar a tener en cargar el CSS en la herramienta de desarrollador Ronald, pero las animaciones no afectaran a la carga de la pagina
+02:21:48	Gian Franco Catania:	Blender
+02:21:52	Fernando Lozano:	animate
+02:22:06	Ronald Vargas:	Perfecto Jean, muchas gracias!
+02:22:39	[TUTOR]Jean Baladi:	No de nada!
+02:26:09	Jonathan Giordano:	si tu Css tenia 1200 líneas ahora va a tener 3000 después de esto jaja xD
+02:26:10	[Tutor] Bruno Simone:	https://animista.net/ 👈 Les dejo una biblioteca de animaciones!
+02:26:26	Fernando Lozano:	gracias
+02:26:39	lucas vallejos:	me exploto la cabeza
+02:27:06	Ronald Vargas:	Muy bueno Bruno, gracias!
+02:28:08	lucas vallejos:	puedo hacer que cuando haga scroll hasta llegar al elemento y que ahi empiece la animación?
+02:29:08	Emiliano Casanova:	el contenido entre llaves no se puede poner en la misma linea que el porcentaje?
+02:29:14	[TUTOR] Ignacio Curto:	Mmm para eso vas a necesitar JS lucas
+02:29:27	[TUTOR] Ignacio Curto:	Si Emi, es lo mismo
+02:29:37	[TUTOR]Jean Baladi:	Se puede con  una librería que vamos a ver Lucas
+02:30:13	Kael Yorio:	el keyframe se pone debajo de todo tmb como el media o debajo de cada etiqueta que quiero animar,trasicionar?
+02:30:19	Diego Nicolas Gallardo:	son muhco 10 segundo de delay
+02:30:42	[TUTOR] Ignacio Curto:	Lo podes ubicar donde quieras Kael, no es como los mediaa
+02:30:50	lucas vallejos:	gracias
+02:30:52	Jonathan Giordano:	es como jugar con 30fps :P ese delay
+02:30:54	Kael Yorio:	gracias
+02:31:57	Nicolás Javier SCARAFIA:	no es keyframes
+02:31:57	Franco Recoaro:	No faltan las llaves en las propiedades?
+02:31:57	Gian Franco Catania:	@keyframes
+02:32:01	Nicolás Javier SCARAFIA:	con 2
+02:32:04	Nicolás Javier SCARAFIA:	con s
+02:32:10	Jonathan Giordano:	infinite ponga no que repita 1 vez
+02:32:17	Nicolás Javier SCARAFIA:	Jose
+02:32:21	Nicolás Javier SCARAFIA:	Jose
+02:32:23	Gabriel Carranza:	falta la function no ?
+02:32:24	Patricio Borda:	le falta la S al keyframe
+02:32:27	Nicolás Javier SCARAFIA:	No te falta la S
+02:32:34	Nicolás Javier SCARAFIA:	keyframes
+02:32:42	Jonathan Giordano:	;);)
+02:32:51	David Sánchez Rafael:	le has dado un delay de 10 segundos
+02:33:31	José Amador:	https://animista.net/
+02:33:48	[Tutor] Bruno Simone:	Esta biblioteca tiene muy buenas animaciones para sus background
+02:34:08	[TUTOR]Victor Hernandez:	Clave esta biblioteca
+02:35:51	Emiliano Casanova:	q buena onda
+02:35:57	[TUTOR]Victor Hernandez:	Chicos recuerden que esta clase esta buena para decorar su web! pero tampoco es bueno abusar de animaciones y efectos, si se usa con responsabilidad suman muchísimo pero como todo no es bueno abusar de ellas
+02:35:58	Jonathan Giordano:	👍🏼
+02:36:21	Juan José Bascuñan:	toda la razón o sino queda feo
+02:36:27	[Tutor] Bruno Simone:	Clave lo que dice Victor, una web muy cargada de animaciones puede afectar negativamente la experiencia del usuario
+02:36:38	Gian Franco Catania:	Lo ideal seria no usar eso para nuestro SEO ?
+02:36:45	[TUTOR]Victor Hernandez:	Exactamente
+02:36:55	lucas vallejos:	lo que te pregunte hoy bruno
+02:36:55	Gian Franco Catania:	Ok
+02:36:56	lucas vallejos:	jajajaja
+02:36:56	Alvaro Prado Tenorio:	claro, como la frase de la cerveza, todo en exceso es dañino
+02:37:14	Kael Yorio:	perdón re pesado yo con los videos pero se puede aplicar a los mismos ? jajaj
+02:37:33	Gian Franco Catania:	Pense que hacerlo manualmente es mejor para el SEO
+02:38:31	[TUTOR] Ignacio Curto:	Si Kael, a esto lo podes hacer con cualquier elemento!
+02:40:01	facundo vargas:	estaria bueno que los tutores hagan una lista de las paginas para usarlas como herramientas en el proceso , es una idea
+02:40:11	facundo vargas:	si no es mucho pedir jaja
+02:40:51	lucas vallejos:	guardalas facu en un notes, no seas vago jajaja
+02:40:58	Jonathan Giordano:	un separador cheto con un hr no mas alto crack
+02:41:12	Rodrigo Martinez:	se puede poner el kayframe por ejemplo del de la imagen al body? cosa de que todo tenga el fondo fachero pero en general?
+02:41:21	Gian Franco Catania:	Que nos ofrece aos ?
+02:42:14	Gian Franco Catania:	Bootstrap ofrece más animaciones?
+02:42:24	Martin Utrera:	por ejemplo el logo de la pagina?
+02:42:30	Rodrigo Martinez:	claro. Gracias!
+02:42:32	[TUTOR] Ignacio Curto:	Animaciones simples básicamente, sino para trabajar con los scroll es más complejo
+02:42:36	Pablo Suriani:	consulta, se puede hacer una animación, pero de gradientes? 🤔
+02:42:47	[TUTOR] Ignacio Curto:	Mmm no Gian, BT nos ofrece bloques o elementos más que animaciones
+02:43:09	Gian Franco Catania:	Listo, es para tener una idea de lo que voy agregando
+02:43:11	[TUTOR] Ignacio Curto:	Pabloo https://codepen.io/P1N2O/pen/pyBNzX
+02:43:37	Angel  Aguilera:	esta buenisimo jajaaja
+02:43:44	Juan José Bascuñan:	buenisimooo
+02:43:56	Juan José Bascuñan:	harta lectura
+02:43:57	Alvaro Prado Tenorio:	toda la merca esta ahí
+02:44:03	Juan José Bascuñan:	ajajja
+02:44:04	Rodrigo Martinez:	🏴‍☠️
+02:44:09	Pablo Suriani:	🙌🙌 GENIO nACHO, GRACIAS!
+02:44:19	Denise Gebruers:	Gracias Nacho!
+02:44:20	Juan José Bascuñan:	el profe es el rey de los pirats
+02:44:21	Jonathan Giordano:	tira el link todos los libres
+02:45:03	(Tutora) Nazarena Troisi:	👀
+02:45:58	Nicolás Javier SCARAFIA:	👏👏👏👏👏👏
+02:45:58	lucas vallejos:	todo lo que pida el cliente ajajaja
+02:46:05	lucas vallejos:	todo lo que lo haga feliz
+02:46:17	facundo vargas:	seria que habria que animar para tener una pag mas optimizada y de calidad para ofrecer una mejor experiencia
+02:46:17	José Amador:	https://drive.google.com/file/d/1OvpBb7GX7vCi48cbyz99RZOHKUztUTXt/view?usp=sharing
+02:46:41	Juan José Bascuñan:	ajjajaja
+02:46:49	Jonathan Giordano:	jaj axD hackertime
+02:47:21	Maximiliano Monzón:	compartio solo el archivo profe
+02:47:25	Maximiliano Monzón:	no TODA la carpeta
+02:47:28	Rodrigo Martinez:	pasate el drive general
+02:47:31	Martin Carrizo:	Eso
+02:47:33	David Sánchez Rafael:	el link sólo permite visualizar el libro del CSS
+02:47:34	Jonathan Giordano:	toda la carpeta
+02:47:34	Martin Carrizo:	Plis
+02:47:42	Alvaro Prado Tenorio:	guau
+02:47:50	[Tutor] Matías Ezequiel Espinosa:	oro puro
+02:47:52	David Sánchez Rafael:	el link sólo permite visualizar el libro del CSS
+02:47:52	nahuel leite:	profe paso el link al libro no a la carpeta
+02:47:54	Martin Utrera:	Profesor paso el link de un libro
+02:47:55	Erick Jurupe:	toda la carpeta por favor
+02:47:58	Rodrigo Martinez:	hace la onda! comparti el conocimiento
+02:47:59	Juan José Bascuñan:	compartio solo un documento
+02:48:00	Juan José Bascuñan:	jaaj
+02:48:03	Jonathan Giordano:	jajaj
+02:48:03	Diego Nicolas Gallardo:	carpeta
+02:48:07	Nicolás Javier SCARAFIA:	descargado el primero
+02:48:07	Diego Nicolas Gallardo:	carpeta
+02:48:08	Nicolás Javier SCARAFIA:	jejeje
+02:48:09	Martin Carrizo:	🥺
+02:48:12	Alvaro Prado Tenorio:	la mejor documentación esta en inglés, no era mentira
+02:48:16	Jonathan Giordano:	todos los libros loot!
+02:48:17	José Amador:	https://drive.google.com/file/d/1FkhMYB3zTTWeKnU8NUWNbB1USwxeytrs/view?usp=sharing
+02:48:22	David Sánchez Rafael:	otra cosa!
+02:48:27	Franco Billordo:	la importancia del ingles
+02:48:41	Rodrigo Martinez:	de nuevo es un solo libro
+02:48:44	Juan Ignacio Bocchi:	mepa que paso de nuevo el libro
+02:48:46	Martin Carrizo:	Si
+02:48:50	[TUTOR] Ignacio Curto:	https://drive.google.com/drive/folders/1Df2dN6wAFCPSPLF76n9TYRtOQXQyU1DN
+02:48:52	Erick Jurupe:	sim solo esta el libro
+02:48:54	Maximiliano Monzón:	de nuevo paso el libro
+02:49:03	[TUTOR] Ignacio Curto:	Ahí ta todoo
+02:49:09	Maximiliano Monzón:	ahora si Ignacio!!
+02:49:38	Ronald Vargas:	Gracias Ignacio!!
+02:49:39	(Tutora) Nazarena Troisi:	Gracias Ignacio!
+02:49:43	Paul Corrales:	como lo guardo en mi drive? XD
+02:49:53	Juan José Bascuñan:	ahi esta todo
+02:49:53	José Amador:	https://www.youtube.com/watch?v=2IbRtjez6ag&t=81s
+02:49:58	Nicolás Javier SCARAFIA:	es un crack el vago ese jajaja
+02:49:58	Juan José Bascuñan:	libro como para 1 año
+02:50:27	José Amador:	https://michalsnik.github.io/aos/
+02:51:47	Jonathan Giordano:	para que es el AOS ?
+02:51:58	nahuel leite:	y puedo hacer un anchor para copiar y pegar en cada html que haga?
+02:52:50	[Tutor] Lionel Almaida:	AOS es de animaciones también
+02:52:57	Guido Bombini:	eso es una biblioteca?
+02:53:07	[Tutor] Lionel Almaida:	Este tema tiene un pack de tools inmenso
+02:53:11	David Sánchez Rafael:	profesor, si vamos a realizar una intranet, donde el sitio web no tiene salida a internet???
+02:53:11	[Tutor] Lionel Almaida:	Hay chiches para rato
+02:56:03	Guido Bombini:	es facil aplicarlas con eso
+02:56:10	Juan José Bascuñan:	wooow
+02:56:16	Juan José Bascuñan:	esta repro este hack
+02:56:29	Emiliano Casanova:	terrible chit
+02:56:49	Jonathan Giordano:	Brujeria ! esta genial
+02:57:55	Jonathan Giordano:	el "data-aos" es el nombre que le dan al kit q bajamos ? o se llama asi todo el tiempo ?
+02:58:10	[TUTOR] Ignacio Curto:	Sisi, es propio de esa librería ese nombre
+02:58:22	Jonathan Giordano:	Tyy
+02:59:36	Kael Yorio:	entonces para cualquier animación que quiera hacer tengo que poner esas etiquetas si o si en cada pagina html antes? me perdi un poco
+02:59:46	[Tutor] Lionel Almaida:	Las clases Kael
+02:59:47	[Tutor] Lionel Almaida:	Si
+02:59:49	[Tutor] Matías Ezequiel Espinosa:	La clase si
+03:00:15	Diego Nicolas Gallardo:	usar esta librería se va a evaluar?
+03:00:20	Jonathan Giordano:	siempre q agreges un paquete de internet tenes que descriminarlo en el head con un link o script
+03:00:27	[TUTOR] Ignacio Curto:	No Diego, es opcionalll
+03:00:30	Guido Bombini:	la animacion del cuadro de cuando aparece es lo que hace ese codigo?
+03:00:31	[Tutor] Matías Ezequiel Espinosa:	No diego,
+03:00:39	Diego Nicolas Gallardo:	ok, gracias
+03:00:41	[TUTOR] Ignacio Curto:	Claro Guidoo
+03:00:48	[Tutor] Matías Ezequiel Espinosa:	si guidp
+03:01:04	Juan José Bascuñan:	se ve relento
+03:01:08	Juan José Bascuñan:	xd
+03:01:10	[Tutor] Matías Ezequiel Espinosa:	y por lo general la clase tiene un nombr descriptivo muy intuitivo
+03:01:21	[Tutor] Matías Ezequiel Espinosa:	onda zoom_in y te lo agranda
+03:01:26	Guido Bombini:	despues me imagino que existen cientas de animaciones de bibliotecas de la comunida
+03:01:36	Emiliano Casanova:	todas esas animaciones funcionan en mobile?
+03:01:41	Guido Bombini:	y las animaciones son exclusivamente de html?
+03:01:46	[COORDI]Constanza Pugliese:	lo importante de esta clase es que puedan aplicarlo a su proyecto de la manera que mejor les parezca
+03:01:46	lucas vallejos:	no es tan atractivo para la view en pc porque son demasiado grandes los contenedores
+03:02:01	[TUTOR] Ignacio Curto:	Si Emii
+03:02:19	[TUTOR] Ignacio Curto:	No entiendo la pregunta Guido, pero si, solo se aplica en el html eso
+03:02:22	Emiliano Casanova:	te quiero gracias
+03:03:04	Guido Bombini:	eso, osea las animaciones serian en html solo hasta ahora, no se aplica en css, sino mas adentro de la etiqueta de html
+03:03:56	[TUTOR] Ignacio Curto:	Sii eso es porque estamos usando esta librería, entonces al trabajar con esos data-aos solo lo hacemos con HTML, no tocamos CSS ni para modificarlas porque es como todo un paquete
+03:04:44	Jonathan Giordano:	no único que no me quedo claro es por que ponemos el script al final del boddy
+03:04:51	Alvaro Prado Tenorio:	Eso sería la forma más fácil, se podría decir?
+03:04:55	Jonathan Giordano:	lo único*
+03:04:56	[Tutor] Lionel Almaida:	Porque el script "llama" a la librería de Js
+03:05:13	Diego Nicolas Gallardo:	después hable un poco de la tarea por favor
+03:05:29	Jonathan Giordano:	y dentro del init()
+03:05:35	Guido Bombini:	eso, la tarea
+03:05:37	Jonathan Giordano:	pones por ejemplo header
+03:05:54	Jonathan Giordano:	ahhh ok
+03:05:56	David Sánchez Rafael:	profesor, si vamos a realizar una intranet, donde el sitio web no tiene salida a internet? ¿Cómo usamos esas librerías?
+03:06:00	Diego Nicolas Gallardo:	por que tenemos 2 entregables
+03:06:35	Pablo Suriani:	José lo mencionaste y no hablamos  del DOM aún..lo vamos a ver?
+03:06:40	Angel  Aguilera:	Que es una intranet?
+03:07:04	[Tutor] Lionel Almaida:	El DOM no entra en este curso, no
+03:07:13	David Sánchez Rafael:	osea no podríamos usar esas librerías en una intranet?
+03:07:15	[Tutor] Matías Ezequiel Espinosa:	DOM en JS
+03:07:31	David Sánchez Rafael:	porque al no tener salida a internet, cómo descarga esas librerías?
+03:08:02	David Sánchez Rafael:	ok
+03:09:01	Franco Hermosilla Melo:	yo tengo un problema, tengo todo con flexbox
+03:09:30	Ariel Lomes:	Franco vamos a tener que acomodar todo o volver a hacerlo
+03:10:12	Juan Ignacio Bocchi:	si hacemos el desafio complementario, igualmente al desafio entregable mandamos solamente el index + una pagina?
+03:10:27	[Tutor] Bruno Simone:	Siempre se manda todo el proyecto Juan!
+03:10:44	Juan Ignacio Bocchi:	Muchas gracias Bruno
+03:10:47	nahuel leite:	los dos son obligatorios pero uno se puede reprobar?
+03:10:50	Kael Yorio:	se podría hacer full responsive como el desafio entregable directamente?
+03:10:58	[Tutor] Bruno Simone:	Les recomiendo que lo hagan el desafio complementario, tarde o temprano van a tener que logar el full responsive porque es un requisito para el proyecto final
+03:11:00	[TUTOR] Ignacio Curto:	No Nahuel, el complementario es 100% opcional
+03:11:00	(Tutora) Nazarena Troisi:	Pueden enviar el mismo archivo si cumple las dos consignas
+03:11:06	Kael Yorio:	o sea en todas las paginas
+03:11:16	nahuel leite:	ok perfecto
+03:11:26	Gian Franco Catania:	En mi caso no necesito Grids EN MI INDEX...puedo hacerlo en otra página ?
+03:12:28	Diego Nicolas Gallardo:	bueno, compas. yo me tengo que retirar
+03:12:39	[TUTOR] Ignacio Curto:	Buenas noches!
+03:12:40	Jonathan Giordano:	muchas gracias a todos , me voy a cenar . buenas noches a todos. BUENA CLASE👍🏼
+03:12:45	Diego Nicolas Gallardo:	despues veo la grabación para los detalles de la tarea
+03:12:48	Diego Nicolas Gallardo:	buenas noches
+03:12:54	nahuel leite:	buenas noches a todos
+03:12:57	[Tutor] Bruno Simone:	Nos vemos el jueves a los que se van retirando!
+03:12:58	Juan José Bascuñan:	buenas noches a todos
+03:13:01	Juan José Bascuñan:	excelente clase
+03:13:04	[COORDI]Constanza Pugliese:	tienen las rúbricas para consultar también!
+03:13:40	Mauro Alvarez:	buenas noches!! muy buena clase!!
+03:13:52	carlos condori:	nos vemos profe
+03:13:56	Francisco Laguinge:	buenas noches
+03:13:58	[COORDI]Constanza Pugliese:	Que descansen :)
+03:13:59	Fermín Del Carlo:	Nos vemosss
+03:14:05	Juan Ignacio Bocchi:	Buenas noches!!
+03:14:25	[Tutor] Lionel Almaida:	Buenas noches a todos! Saludos y hasta el Jueves
+03:14:52	Rocio Romano RB:	buenas noches a todos!
+03:15:06	Juan José Bascuñan:	me pasa lo mismo que franco
+03:15:14	Juan José Bascuñan:	no se me visualiza con mobile first
+03:15:46	(TUTORA) Ara Orzanco:	Nos vemos! suerte en el desafio
+03:16:21	[TUTOR]Jean Baladi:	Equipo, me tengo que retirar, buenas ncohes! nos vemos el jueves
+03:16:36	Nelson Campa:	Buenas noches a
+03:16:41	Nelson Campa:	todos
+03:16:45	Nelson Campa:	jajaj
+03:17:22	Erick Jurupe:	Muchas gracias, buenas noches
+03:17:27	Gabriel Carranza:	Buenas noches a todos
+03:17:37	Franco Hermosilla Melo:	Buenas noches a todos!
+03:19:47	Ronald Vargas:	Buenas noches!! Éxitos! ✌️
+03:24:21	Paul Corrales:	see you
+03:24:42	David Sánchez Rafael:	gracias profe!
