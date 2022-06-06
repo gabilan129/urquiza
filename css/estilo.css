@@ -331,7 +331,7 @@ h1 {
 }
 
 
-/*ANIMACIONES*/
+/*ANIMACIONES
 
 @keyframes opacidad {
     0%{ opacity: 0;}
@@ -388,13 +388,9 @@ h1 {
 
 
 
-
-
-
-
-
-
 }
+
+*/
 
 .mapa {
     width: 100vh;
