@@ -54,8 +54,8 @@ footer {
 
 }
 
-.logo:hover , .nav__li--logoEmpresas:hover , .nav__li--contacto:hover {
-    transform: scale(1.3);
+.logo:hover , .nav__li--logoEmpresas:hover , .nav__li--contacto:hover{
+    transform: scale(1.1);
 }
 
 
