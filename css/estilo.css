@@ -295,6 +295,7 @@ table {
 
 .main__div--imagenes {
     width: 100%;
+
 }
 
 
@@ -413,6 +414,20 @@ p {
     width: 50%;
 }
 
+.contenedor__titulo--imagen {
+    position: relative;
+    overflow: hidden;
+
+}
+
+.titulo__imagen {
+  position: absolute;
+    top: 10%;
+    left: 40%;
+transform: translate(50px);
+    color: aliceblue;
+    font-size: 150px;
+}
 
 
 
@@ -427,6 +442,26 @@ p {
 
 
 @media screen and ( max-width: 768px) {
+
+    .contenedor__titulo--imagen {
+        position: relative;
+        overflow: hidden;
+    
+    }
+    
+    .titulo__imagen {
+      position: absolute;
+        top: 50%;
+        left: 50%;
+    transform: translate(-170px);
+        color: aliceblue;
+        font-size: 50px;
+        width: 70vh;
+    }
+    
+
+
+
 
     .card__colum--movil {
         display: flex;
