@@ -2,13 +2,13 @@
 <html lang="en">
 
 <head>
-    <link rel="stylesheet" href="../css/estilo.css">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+        integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/estilo.css">
 
 
     <title>contacto</title>
@@ -35,9 +35,8 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="./chevallier.html"><img
-                                    src="../assets/chevallier-logo.png" alt="logo empresa Argentina"
-                                    class="nav__li--logoEmpresas"></a>
+                            <a class="nav-link" href="./chevallier.html"><img src="../assets/chevallier-logo.png"
+                                    alt="logo empresa Argentina" class="nav__li--logoEmpresas"></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="./empresa argentina.html"><img
@@ -59,7 +58,7 @@
 
 
 
-     <!--   <nav>
+        <!--   <nav>
 
 
             <ul class="header__contenedor">
@@ -94,24 +93,113 @@
 
     <main class="main__contacto ">
 
+        <h1>Contacto</h1>
+
+        <div class="col-6">
+
+
+            <form>
+                <div class="mb-3 >
+            <label for=" exampleInputEmail1" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <div id="emailHelp" class="form-text">Ingresa Tu Email</div>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Contraseña</label>
+                    <input type="password" class="form-control" id="exampleInputPassword1">
+                </div>
+                <div class="mb-3 form-check>
+            <input type=" checkbox" class="form-check-input" id="exampleCheck1">
+                    <label class="form-check-label" for="exampleCheck1">Confirmacion</label>
+                </div>
+                <button type="submit" class="btn btn-primary">Ingresar</button>
+            </form>
+            <br><br>
+            <select class="form-select" aria-label="Default select example">
+                <option selected class="col-3">Selecionar Empresa</option>
+                <option value="1">Chevallier</option>
+                <option value="2">Urquiza</option>
+                <option value="3">Empresa Argentina</option>
+
+
+            </select>
+            <br>
+            <p>Si no tiene una cuenta se solicita registrarse</p>
+
+
+            <br><br><br>
+            <h2>Registro</h2>
+
+            <form class="row g-3">
+                <div class="col-md-6">
+                    <label for="inputEmail4" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="inputEmail4">
+                </div>
+                <div class="col-md-6">
+                    <label for="inputPassword4" class="form-label">Contraseña</label>
+                    <input type="password" class="form-control" id="inputPassword4">
+                </div>
+                <div class="col-12">
+                    <label for="inputAddress" class="form-label">Direccion de facturacion</label>
+                    <input type="text" class="form-control" id="inputAddress" placeholder="Buenos Aires al 1800">
+                </div>
+                <div class="col-12">
+                    <label for="inputAddress2" class="form-label">Direccion alternativa</label>
+                    <input type="text" class="form-control" id="inputAddress2"
+                        placeholder="Localidad o Lugar de trabajo">
+                </div>
+                <div class="col-md-6">
+                    <label for="inputCity" class="form-label">Provincia</label>
+                    <input type="text" class="form-control" id="inputCity">
+                </div>
+                <div class="col-md-4">
+                    <label for="inputState" class="form-label">Ciudad</label>
+                    <select id="inputState" class="form-select">
+                        <option selected>Elige </option>
+                        <option value="1">Longchamps</option>
+                        <option value="2">Burzaco</option>
+                        <option value="3">Adrogue</option>
+                        <option value="4">Temperley</option>
+                        <option value="5">Lomas De Zamora</option>
+                    </select>
+                </div>
+                <div class="col-md-2">
+                    <label for="inputZip" class="form-label">Codigo postal</label>
+                    <input type="text" class="form-control" id="inputZip">
+                </div>
+                <div class="col-12">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" id="gridCheck">
+                        <label class="form-check-label" for="gridCheck">
+                            Confirmar
+                        </label>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <button type="submit" class="btn btn-primary">Registrar</button>
+                </div>
+            </form>
 
 
 
 
+        </div>
 
-        <form action="" method="get" enctype="text/plain" class="formulario">
-            <div>
-                <label for="userName">Nombre</label>
-                <input type="text" id="userName" name="userName">
+        <!--
+
+            <form action="" method="get" enctype="text/plain" class="formulario">
+                <div>
+                    <label for="userName">Nombre</label>
+                    <input type="text" id="userName" name="userName">
             </div>
             <div>
                 <label for="passW">Contraseña</label>
                 <input type="password" id="passW" name="passW">
             </div>
-
-
+            
+            
             <div>Selecciones Empresa de Consulta</div>
-
+            
             <div>
                 <label for="urquiza">Urquiza</label>
                 <input type="radio" name="gender" id="urquiza" value="urquiza">
@@ -129,7 +217,7 @@
                 <label for="phone">Phone</label>
                 <input type="tel" name="phone" id="phone">
             </div>
-
+            
             <div>
                 <label for="correo">Email</label>
                 <input type="email" id="correo" name="correo">
@@ -138,29 +226,30 @@
                 <label for="tiempo">Fecha de viaje</label>
                 <input type="datetime-local" id="tiempo" name="tiempo">
             </div>
-
-
+            
+            
             <div>
                 <label for="comentario">Deje su comentario</label> <br>
                 <textarea name="comentario" id="comentario" cols="30" rows="10"></textarea>
-
-
+                
+                
             </div>
+            
 
-
-
-
-
-
-
+            
+            
+            
+            
+            
             <input type="submit">
             <input type="reset">
-
-
-
+            
+            
+            
         </form>
+    -->
 
-        </div>
+
 
 
 
@@ -186,8 +275,8 @@
 
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous">
-</script>
+        integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous">
+    </script>
 
 
 </body>
