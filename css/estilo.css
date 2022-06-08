@@ -188,6 +188,10 @@ footer {
 }
 
 
+.footer__logo--redes:hover {
+    transform: scale(2.5);
+}
+
 
 .section__table {
 
