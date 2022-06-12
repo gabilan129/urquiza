@@ -285,6 +285,8 @@ table {
 .main__section--one--micros {
     display: grid;
     grid-template-rows: 1fr 20px;
+    
+
 }
 
 .div__micros__section--one {
@@ -452,6 +454,56 @@ p {
 */
 
 /*RESPONSIVE*/
+
+@media screen and (max-width: 1200px) {
+
+    .contenedor__titulo--imagen {
+        position: relative;
+        overflow: hidden;
+
+    }
+
+    .titulo__imagen {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-170px);
+        color: aliceblue;
+        font-size: 50px;
+        width: 70vh;
+    }
+
+
+
+
+
+    .card__colum--movil {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+
+    .main__div__taller--index {
+
+        margin: auto;
+        /* display: flex; */
+        /* flex-direction: row; */
+        /* justify-content: center; */
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-items: center;
+        width: 70vh;
+    }
+
+
+    .mapouter {
+        display: none;
+    }
+
+
+}
 
 
 @media screen and (max-width: 768px) {
