@@ -41,7 +41,7 @@ footer {
     background-color: rgb(91, 116, 131);
     padding: 0px 0px;
     margin-bottom: 0px;
-    height: 30vh;
+    height: 100%;
 }
 
 /*CLASES*/
@@ -345,16 +345,19 @@ table {
 .contenedor__titulo--imagen {
     position: relative;
     overflow: hidden;
-
+    width: 100%;
+    
 }
 
 .titulo__imagen {
     position: absolute;
     top: 10%;
     left: 40%;
-    transform: translate(50px);
+    transform: translate(5px);
     color: aliceblue;
     font-size: 150px;
+    width: 70%;
+    
 }
 
 .imagen__carrusel {
