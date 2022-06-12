@@ -333,21 +333,37 @@ table {
     justify-content: center;
 }
 
-h1 {
-    animation-name: opacidad;
-    animation-duration: 2s;
-    animation-delay: 0s;
-    animation-iteration-count: 1;
 
+
+
+.mapa {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.contenedor__titulo--imagen {
+    position: relative;
+    overflow: hidden;
 
 }
 
-p {
-    animation-name: fondo;
-    animation-iteration-count: infinite;
-    animation-timing-function: ease-in;
-    animation-duration: 10s;
-    animation-delay: 0s;
+.titulo__imagen {
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    transform: translate(50px);
+    color: aliceblue;
+    font-size: 150px;
+}
+
+.imagen__carrusel {
+    height: 200px;
+
+}
+
+.section__formulario{
+    margin: 2rem;
 }
 
 
@@ -410,42 +426,27 @@ p {
     
     
 }
+
+h1 {
+    animation-name: opacidad;
+    animation-duration: 2s;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    
+    
+}
+
+p {
+    animation-name: fondo;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+    animation-duration: 10s;
+    animation-delay: 0s;
+}
+
+
+
 */
-
-
-.mapa {
-    width: 50%;
-    display: flex;
-    justify-content: flex-end;
-}
-
-.contenedor__titulo--imagen {
-    position: relative;
-    overflow: hidden;
-
-}
-
-.titulo__imagen {
-    position: absolute;
-    top: 10%;
-    left: 40%;
-    transform: translate(50px);
-    color: aliceblue;
-    font-size: 150px;
-}
-
-.imagen__carrusel {
-    height: 200px;
-
-}
-
-
-
-
-
-
-
-
 
 /*RESPONSIVE*/
 
@@ -499,6 +500,8 @@ p {
 
 
 }
+
+
 
 @media screen and (max-width: 480px) {
 
