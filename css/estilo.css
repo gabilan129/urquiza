@@ -16,7 +16,7 @@ body {
     background-color: rgb(216, 219, 221);
     display: grid;
     grid-template-rows: auto 1fr auto;
-    grid-template-columns: 1fr;
+    grid-template-columns: auto;
 
 }
 
@@ -285,7 +285,10 @@ table {
 .main__section--one--micros {
     display: grid;
     grid-template-rows: 1fr 20px;
-    
+    grid-template-columns: 1fr ;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
 
 }
 
@@ -296,11 +299,13 @@ table {
     align-items: center;
     margin-top: 300px;
     margin-bottom: 0px;
+    width: 100%;
+    height: 100%;
 }
 
 .main__div--imagenes {
-    width: 100%;
-
+    width: 100%
+    
 }
 
 
@@ -348,6 +353,7 @@ table {
     position: relative;
     overflow: hidden;
     width: 100%;
+    
     
 }
 
@@ -459,7 +465,7 @@ p {
 
 /*RESPONSIVE*/
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1299px) {
 
     .contenedor__titulo--imagen {
         position: relative;
