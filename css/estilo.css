@@ -285,14 +285,14 @@ table {
 .main__section--one--micros {
     display: grid;
     grid-template-rows: 1fr 20px;
-    grid-template-columns: 1fr ;
+    grid-template-columns: 1fr;
     justify-content: center;
     width: 100%;
     height: 100%;
 
 }
 
-.div__micros__section--one {
+/*.div__micros__section--one {
     display: flex;
     flex-direction: column;
     justify-items: center;
@@ -301,11 +301,10 @@ table {
     margin-bottom: 0px;
     width: 100%;
     height: 100%;
-}
+} */
 
 .main__div--imagenes {
     width: 100%
-    
 }
 
 
@@ -325,7 +324,7 @@ table {
 
 .main__section--two {
     display: grid;
-    grid-template-rows: 1fr;
+    grid-template-rows: 1fr 1fr;
     gap: 10px;
 }
 
@@ -353,8 +352,8 @@ table {
     position: relative;
     overflow: hidden;
     width: 100%;
-    
-    
+
+
 }
 
 .titulo__imagen {
@@ -365,11 +364,12 @@ table {
     color: aliceblue;
     font-size: 150px;
     width: 70%;
-    
+
 }
-   .argentina {
+
+.argentina {
     font-size: 130px;
-   }
+}
 
 
 .imagen__carrusel {
@@ -377,10 +377,16 @@ table {
 
 }
 
-.section__formulario{
+.section__formulario {
     margin: 2rem;
 }
 
+
+.div__prueba{
+    margin-top: 0px ;
+    
+    background-color: aqua;
+}
 
 
 /*ANIMACIONES
