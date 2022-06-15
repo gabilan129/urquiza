@@ -64,20 +64,6 @@ footer {
 
 
 
-.header__contenedor {
-    opacity: 0.9;
-    background-color: rgb(10, 153, 163);
-    padding: auto;
-    position: fixed;
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    width: 100%;
-
-
-
-}
-
 .nav__li {
 
     display: inline;

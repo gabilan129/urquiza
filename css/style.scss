@@ -1,3 +1,7 @@
+
+
+
+
 /*
 * {
     margin: 0;
@@ -104,18 +108,20 @@ footer {
 
 
 
+@import "./variables";
 
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: fantasy;
-    font-size: 20px;
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: fantasy;
+font-size: 20px;
 
 }
 
 /*simepre usar esta propiedad para resetar el css predeterminado de la pagina*/
+
 
 
 
@@ -273,7 +279,7 @@ footer {
 .main__section-parrafo {
 
 
-
+    color: $rojo;
     text-align: center;
     margin: auto;
     width: 50%;
@@ -482,6 +488,9 @@ table {
 .section__formulario{
     margin: 2rem;
 }
+
+
+
 
 
 
@@ -695,17 +704,7 @@ p {
 
 
 
-    .header__contenedor {
-        align-items: baseline;
-        display: grid;
-        grid-template-rows: repeat(5, 5rem);
-        align-items: center;
-        justify-items: center;
-        position: static;
-        width: 100vh;
-    }
-
-
+    
 
 
     .main__div__taller--index {
@@ -782,17 +781,7 @@ p {
 
 
 
-    .header__contenedor {
-        align-items: baseline;
-        display: grid;
-        grid-template-rows: repeat(5, 5rem);
-        align-items: center;
-        justify-items: center;
-        position: static;
-        width: 100vh;
-    }
-
-
+  
 
 
     .main__div__taller--index {
