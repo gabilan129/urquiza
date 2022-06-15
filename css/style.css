@@ -136,7 +136,17 @@ footer {
   }
 }
 
-/* Media queris*/
+.titulo__imagen--chevallier {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  -webkit-transform: translate(5px);
+          transform: translate(5px);
+  color: aliceblue;
+  font-size: 150px;
+  width: 100%;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -345,14 +355,6 @@ table {
   background-color: aliceblue;
 }
 
-/* .div__contacto{
-    display: flex;
-    align-items:center;
-    margin: auto;
-    text-align:center;
-    background-color: red;
-    width: 100%;
-} */
 .main__contacto {
   padding-top: 150px;
   display: -ms-grid;
@@ -503,85 +505,6 @@ table {
   margin: 2rem;
 }
 
-/*ANIMACIONES
-
-@keyframes opacidad {
-    0%{ opacity: 0;}
-    50% {opacity: 0.5;}
-    100% { opacity: 1;}
-}
-
-@keyframes fondo {
-    0% {
-        color: rgb(250, 31, 2);
-    }
-    
-    10% {
-        color: rgb(146, 29, 175); 
-    }
-
-    20% {
-        color: rgb(236, 22, 236);
-    }
-    
-    30% {
-        color: rgb(233, 44, 10);
-    }
-    
-    40% {
-        color: rgb(233, 77, 15);
-    }
-    
-    50% {
-        color: rgb(7, 3, 219);
-    }
-    
-    60% {
-        color: rgb(245, 100, 17);
-    }
-    
-    70% {
-        color: rgb(141, 236, 15);
-    }
-    
-    80% {
-        color: rgb(233, 229, 10);
-    }
-    
-    90% {
-        color: rgb(238, 102, 11);
-    }
-    
-    100% {
-        color: rgb(235, 36, 10);
-    }
-    
-    
-    
-    
-    
-}
-
-h1 {
-    animation-name: opacidad;
-    animation-duration: 2s;
-    animation-delay: 0s;
-    animation-iteration-count: 1;
-    
-    
-}
-
-p {
-    animation-name: fondo;
-    animation-iteration-count: infinite;
-    animation-timing-function: ease-in;
-    animation-duration: 10s;
-    animation-delay: 0s;
-}
-
-
-
-*/
 /*RESPONSIVE*/
 @media screen and (max-width: 1200px) {
   .contenedor__titulo--imagen {
@@ -589,6 +512,16 @@ p {
     overflow: hidden;
   }
   .titulo__imagen {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    -webkit-transform: translate(170px);
+            transform: translate(170px);
+    color: aliceblue;
+    font-size: 50px;
+    width: 100%;
+  }
+  .titulo__imagen--chevallier {
     position: absolute;
     top: 50%;
     left: 5%;
