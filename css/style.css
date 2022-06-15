@@ -136,6 +136,7 @@ footer {
   }
 }
 
+/* Media queris*/
 * {
   margin: 0;
   padding: 0;
@@ -482,12 +483,12 @@ table {
 .titulo__imagen {
   position: absolute;
   top: 10%;
-  left: 40%;
+  left: 10%;
   -webkit-transform: translate(5px);
           transform: translate(5px);
   color: aliceblue;
   font-size: 150px;
-  width: 70%;
+  width: 100%;
 }
 
 .argentina {
@@ -590,12 +591,12 @@ p {
   .titulo__imagen {
     position: absolute;
     top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-170px);
-            transform: translate(-170px);
+    left: 5%;
+    -webkit-transform: translate(170px);
+            transform: translate(170px);
     color: aliceblue;
     font-size: 50px;
-    width: 70vh;
+    width: 100%;
   }
   .card__colum--movil {
     display: -webkit-box;
@@ -630,16 +631,6 @@ p {
   .contenedor__titulo--imagen {
     position: relative;
     overflow: hidden;
-  }
-  .titulo__imagen {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-170px);
-            transform: translate(-170px);
-    color: aliceblue;
-    font-size: 50px;
-    width: 70vh;
   }
   .card__colum--movil {
     display: -webkit-box;
