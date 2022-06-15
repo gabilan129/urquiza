@@ -99,6 +99,43 @@ footer {
 
 
 */
+/*ANIMACION DE LA IMAGEN CHEVALLIER*/
+.reflejo figure {
+  position: relative;
+}
+
+.reflejo figure::before {
+  position: absolute;
+  top: 0;
+  left: -75%;
+  z-index: 2;
+  display: block;
+  content: '';
+  width: 50%;
+  height: 100%;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0)), to(rgba(255, 255, 255, 0.3)));
+  background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.3) 100%);
+  -webkit-transform: skewX(-25deg);
+  transform: skewX(-25deg);
+}
+
+.reflejo figure:hover::before {
+  -webkit-animation: shine .75s;
+  animation: shine .75s;
+}
+
+@-webkit-keyframes shine {
+  100% {
+    left: 125%;
+  }
+}
+
+@keyframes shine {
+  100% {
+    left: 125%;
+  }
+}
+
 * {
   margin: 0;
   padding: 0;

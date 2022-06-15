@@ -1,0 +1,278 @@
+/*RESPONSIVE*/
+
+@media screen and (max-width: 1200px) {
+
+    .contenedor__titulo--imagen {
+        position: relative;
+        overflow: hidden;
+        
+
+
+    }
+
+    .titulo__imagen {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-170px);
+        color: aliceblue;
+        font-size: 50px;
+        width: 70vh;
+    }
+
+
+
+
+
+    .card__colum--movil {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+
+    .main__div__taller--index {
+
+        margin: auto;
+        /* display: flex; */
+        /* flex-direction: row; */
+        /* justify-content: center; */
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-items: center;
+        width: 70vh;
+    }
+
+
+    .mapouter {
+        display: none;
+    }
+
+
+}
+
+
+@media screen and (max-width: 768px) {
+
+    .contenedor__titulo--imagen {
+        position: relative;
+        overflow: hidden;
+
+    }
+
+    .titulo__imagen {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-170px);
+        color: aliceblue;
+        font-size: 50px;
+        width: 70vh;
+    }
+
+
+
+
+
+    .card__colum--movil {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+
+    .main__div__taller--index {
+
+        margin: auto;
+        /* display: flex; */
+        /* flex-direction: row; */
+        /* justify-content: center; */
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-items: center;
+        width: 70vh;
+    }
+
+
+    .mapouter {
+        display: none;
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 480px) {
+
+
+    .formulario {
+        background-color: white;
+
+        border: 2px solid;
+        border-color: black;
+        border-radius: 1em;
+        font-family: fantasy;
+        /* margin: auto; */
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        padding: 2rem;
+        margin-top: 60px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+
+
+    
+
+
+    .main__div__taller--index {
+
+        margin: auto;
+        /* display: flex; */
+        /* flex-direction: row; */
+        /* justify-content: center; */
+        display: grid;
+        grid-template-columns: 1fr;
+
+        width: 70vh;
+    }
+
+
+
+
+
+
+    .mapouter {
+        display: none;
+    }
+
+
+    footer {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        color: white;
+        background-color: rgb(91, 116, 131);
+        align-content: flex-end;
+        margin-bottom: 0px;
+        /*pruba*/
+
+        position: static;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+
+
+    }
+
+
+    .div__main__titulo {
+
+        width: 70vh;
+    }
+
+    .main__titulo {
+        display: flex;
+        flex-wrap: wrap;
+        width: 70vh;
+    }
+
+    .main__logoCNRT {
+        width: 60vh;
+    }
+
+
+
+    .video__cnrt {
+        margin-bottom: 50px;
+    }
+
+
+
+}
+
+
+
+@media screen and (max-width: 360px) {
+
+
+
+
+  
+
+
+    .main__div__taller--index {
+        gap: 10px;
+        margin: auto;
+        /* display: flex; */
+        /* flex-direction: row; */
+        /* justify-content: center; */
+        display: grid;
+        grid-template-columns: 1fr;
+
+        width: 70vh;
+    }
+
+
+
+
+
+
+    .mapouter {
+        display: none;
+    }
+
+
+    footer {
+        display: flex;
+        justify-content: space-around;
+        justify-content: end;
+        align-items: center;
+        flex-direction: column;
+        color: white;
+        background-color: rgb(91, 116, 131);
+
+        margin-bottom: 0px;
+        /*pruba*/
+
+        position: static;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+
+
+    }
+
+
+    .div__main__titulo {
+
+        width: 70vh;
+    }
+
+    .main__titulo {
+        display: flex;
+        flex-wrap: wrap;
+        width: 70vh;
+    }
+
+    .main__logoCNRT {
+        width: 60vh;
+    }
+
+
+
+    .video__cnrt {
+        margin-bottom: 50px;
+    }
+
+
+
+}
+
