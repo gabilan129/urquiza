@@ -142,7 +142,7 @@ footer {
   left: 10%;
   -webkit-transform: translate(5px);
           transform: translate(5px);
-  color: aliceblue;
+  color: rgba(255, 0, 0, 0.37);
   font-size: 150px;
   width: 100%;
 }
@@ -303,7 +303,7 @@ footer {
 }
 
 .main__section-parrafo {
-  color: red;
+  color: rgba(255, 0, 0, 0.37);
   text-align: center;
   margin: auto;
   width: 50%;

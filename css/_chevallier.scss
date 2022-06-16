@@ -1,3 +1,4 @@
+@import "./variables";
 
 /*ANIMACION DE LA IMAGEN CHEVALLIER*/
 
@@ -42,13 +43,11 @@
     top: 10%;
     left: 10%;
     transform: translate(5px);
-    color: aliceblue;
+    color: $rojo;
     font-size: 150px;
     width: 100%;
     
 }
-
-
 
 
 
