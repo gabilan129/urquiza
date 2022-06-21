@@ -152,6 +152,10 @@ footer {
   width: 100%;
 }
 
+.accordion_div--control {
+  width: 100vh;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -428,6 +432,10 @@ table {
   .contenedor__titulo--imagen {
     position: relative;
     overflow: hidden;
+  }
+
+  .accordion_div--control {
+    width: 70%;
   }
 
   .titulo__imagen {

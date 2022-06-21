@@ -1,5 +1,8 @@
 /*RESPONSIVE*/
 
+
+@import "./variables";
+
 @media screen and (max-width: 1200px) {
 
     .contenedor__titulo--imagen {
@@ -8,7 +11,11 @@
         
     }
 
+    .accordion_div--control {
 
+        width: $videoTamañoMovil;
+        }
+        
 
 
     .titulo__imagen {
