@@ -40,19 +40,23 @@
 
 
 
-.titulo__imagen--chevallier {
+.titulo__imagen {
     
     position: absolute;
     top: 10%;
     left: 10%;
-    transform: translate(5px);
-    color: $rojo;
-    font-size: 150px;
     width: 100%;
     
 }
 
 
+.titulo__imagen-chevallier {
+    @extend .titulo__imagen;
+    transform: translate(5px);
+    color: rgb(226, 3, 3);
+    font-size: 150px;
+    
+}
 
 
 

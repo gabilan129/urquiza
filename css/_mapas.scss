@@ -14,5 +14,17 @@ $tamañoPorcentaje : (
     medio : 50 ,
 
 
-)
+);
 
+
+
+.main__list {
+
+
+    color: map-get($colores , rojo );
+    text-align: center;
+    margin: auto;
+    width: map-get($tamañoPorcentaje , medio );
+    font-family: fantasy;
+
+}

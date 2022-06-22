@@ -106,9 +106,9 @@ footer {
 */
 
 
-
-@import "./chevallier";
 @import "./variables";
+@import "./empargentina";
+@import "./chevallier";
 @import "./urquiza";
 @import "./index";
 @import "./mapas";
@@ -463,17 +463,7 @@ table {
     
 }
 
-.titulo__imagen {
-    
-    position: absolute;
-    top: 10%;
-    left: 10%;
-    transform: translate(5px);
-    color: aliceblue;
-    font-size: 150px;
-    width: 100%;
-    
-}
+
    .argentina {
     font-size: 130px;
    }

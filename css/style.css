@@ -99,6 +99,35 @@ footer {
 
 
 */
+.main__list {
+  color: red;
+  text-align: center;
+  margin: auto;
+  width: 50;
+  font-family: fantasy;
+}
+
+.titulo__imagen, .titulo__imagen-index, .titulo__imagen-urquiza, .titulo__imagen-chevallier, .titulo__imagen-argentina {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 100%;
+}
+
+.titulo__imagen-argentina {
+  transform: translate(5px);
+  color: rgb(255, 245, 104);
+  font-size: 150px;
+}
+
+.main__list {
+  color: red;
+  text-align: center;
+  margin: auto;
+  width: 50;
+  font-family: fantasy;
+}
+
 /*ANIMACION DE LA IMAGEN CHEVALLIER*/
 .reflejo figure {
   position: relative;
@@ -132,24 +161,38 @@ footer {
     left: 125%;
   }
 }
-.titulo__imagen--chevallier {
+.titulo__imagen, .titulo__imagen-index, .titulo__imagen-urquiza, .titulo__imagen-chevallier, .titulo__imagen-argentina {
   position: absolute;
   top: 10%;
   left: 10%;
-  transform: translate(5px);
-  color: rgba(255, 0, 0, 0.37);
-  font-size: 150px;
   width: 100%;
 }
 
-.titulo__imagen--urquiza {
+.titulo__imagen-chevallier {
+  transform: translate(5px);
+  color: rgb(226, 3, 3);
+  font-size: 150px;
+}
+
+.main__list {
+  color: red;
+  text-align: center;
+  margin: auto;
+  width: 50;
+  font-family: fantasy;
+}
+
+.titulo__imagen, .titulo__imagen-index, .titulo__imagen-urquiza, .titulo__imagen-argentina, .titulo__imagen-chevallier {
   position: absolute;
   top: 10%;
   left: 10%;
-  transform: translate(5px);
-  color: aliceblue;
-  font-size: 150px;
   width: 100%;
+}
+
+.titulo__imagen-urquiza {
+  transform: translate(5px);
+  color: rgb(14, 98, 172);
+  font-size: 150px;
 }
 
 .accordion_div--control {
@@ -161,6 +204,27 @@ footer {
   flex-wrap: wrap;
   flex-direction: column;
   width: 100%;
+}
+
+.titulo__imagen, .titulo__imagen-index, .titulo__imagen-argentina, .titulo__imagen-chevallier, .titulo__imagen-urquiza {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 100%;
+}
+
+.titulo__imagen-index {
+  transform: translate(5px);
+  color: rgb(253, 253, 253);
+  font-size: 150px;
+}
+
+.main__list {
+  color: red;
+  text-align: center;
+  margin: auto;
+  width: 50;
+  font-family: fantasy;
 }
 
 * {
@@ -412,16 +476,6 @@ table {
   width: 100%;
 }
 
-.titulo__imagen {
-  position: absolute;
-  top: 10%;
-  left: 10%;
-  transform: translate(5px);
-  color: aliceblue;
-  font-size: 150px;
-  width: 100%;
-}
-
 .argentina {
   font-size: 130px;
 }
@@ -451,12 +505,12 @@ table {
     width: 70%;
   }
 
-  .titulo__imagen {
+  .titulo__imagen, .titulo__imagen-argentina, .titulo__imagen-chevallier, .titulo__imagen-urquiza, .titulo__imagen-index {
     position: absolute;
     top: 50%;
     left: 5%;
     transform: translate(170px);
-    color: aliceblue;
+    color: rgb(39, 128, 206);
     font-size: 50px;
     width: 100%;
   }

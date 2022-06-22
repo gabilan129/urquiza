@@ -5,14 +5,20 @@
 
 
 
-.titulo__imagen--urquiza {
+.titulo__imagen {
     
     position: absolute;
     top: 10%;
     left: 10%;
-    transform: translate(5px);
-    color: aliceblue;
-    font-size: 150px;
     width: 100%;
+    
+}
+
+
+.titulo__imagen-urquiza {
+    @extend .titulo__imagen;
+    transform: translate(5px);
+    color: rgb(14, 98, 172);
+    font-size: 150px;
     
 }

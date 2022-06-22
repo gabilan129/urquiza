@@ -16,6 +16,22 @@ width: $videoTamañoEscritorio;
 
 }
 
+.titulo__imagen {
+    
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 100%;
+    
+}
 
+
+.titulo__imagen-index {
+    @extend .titulo__imagen;
+    transform: translate(5px);
+    color: rgb(253, 253, 253);
+    font-size: 150px;
+    
+}
 
 
