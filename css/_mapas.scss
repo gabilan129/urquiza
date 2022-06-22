@@ -5,7 +5,7 @@ $colores : (
     rosa : pink ,
     viole : violet ,
     naranja : orange ,
-
+    gris : grey
 );
 
 $tamañoPorcentaje : (
@@ -21,7 +21,7 @@ $tamañoPorcentaje : (
 .main__list {
 
 
-    color: map-get($colores , rojo );
+    color: map-get($colores , gris );
     text-align: center;
     margin: auto;
     width: map-get($tamañoPorcentaje , medio );

@@ -99,14 +99,6 @@ footer {
 
 
 */
-.main__list {
-  color: red;
-  text-align: center;
-  margin: auto;
-  width: 50;
-  font-family: fantasy;
-}
-
 .titulo__imagen, .titulo__imagen-index, .titulo__imagen-urquiza, .titulo__imagen-chevallier, .titulo__imagen-argentina {
   position: absolute;
   top: 10%;
@@ -121,7 +113,7 @@ footer {
 }
 
 .main__list {
-  color: red;
+  color: grey;
   text-align: center;
   margin: auto;
   width: 50;
@@ -175,7 +167,7 @@ footer {
 }
 
 .main__list {
-  color: red;
+  color: grey;
   text-align: center;
   margin: auto;
   width: 50;
@@ -220,7 +212,7 @@ footer {
 }
 
 .main__list {
-  color: red;
+  color: grey;
   text-align: center;
   margin: auto;
   width: 50;
