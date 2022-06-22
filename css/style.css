@@ -163,7 +163,6 @@ footer {
   width: 100%;
 }
 
-/*tfBoiil5gAbMmD7(21K(*/
 * {
   margin: 0;
   padding: 0;
@@ -440,6 +439,7 @@ table {
   .accordion__div--informe {
     display: flex;
     flex-wrap: wrap;
+    overflow: hidden;
   }
 
   .contenedor__titulo--imagen {
