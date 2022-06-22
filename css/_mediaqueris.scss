@@ -5,6 +5,17 @@
 
 @media screen and (max-width: 1200px) {
 
+    .accordion__div--informe {
+        display: flex;
+        flex-wrap: wrap;   
+    
+        
+    
+    }
+
+
+
+
     .contenedor__titulo--imagen {
         position: relative;
         overflow: hidden;
