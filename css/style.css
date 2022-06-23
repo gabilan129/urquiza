@@ -120,6 +120,22 @@ footer {
   font-family: fantasy;
 }
 
+.titulo_contacto--huno {
+  font-size: 150px;
+  color: rgb(126, 119, 119);
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: start;
+}
+
+.titulo_contacto--hdos {
+  font-size: 100px;
+  color: blue;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: start;
+}
+
 /*ANIMACION DE LA IMAGEN CHEVALLIER*/
 .reflejo figure {
   position: relative;
@@ -174,6 +190,22 @@ footer {
   font-family: fantasy;
 }
 
+.titulo_contacto--huno {
+  font-size: 150px;
+  color: rgb(126, 119, 119);
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: start;
+}
+
+.titulo_contacto--hdos {
+  font-size: 100px;
+  color: blue;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: start;
+}
+
 .titulo__imagen, .titulo__imagen-index, .titulo__imagen-urquiza, .titulo__imagen-argentina, .titulo__imagen-chevallier {
   position: absolute;
   top: 10%;
@@ -219,6 +251,22 @@ footer {
   font-family: fantasy;
 }
 
+.titulo_contacto--huno {
+  font-size: 150px;
+  color: rgb(126, 119, 119);
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: start;
+}
+
+.titulo_contacto--hdos {
+  font-size: 100px;
+  color: blue;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: start;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -233,12 +281,6 @@ body {
   display: grid;
   grid-template-rows: auto 1fr auto;
   grid-template-columns: 1fr;
-}
-
-h2 {
-  font-family: fantasy;
-  font-size: 50px;
-  color: rgb(207, 52, 52);
 }
 
 footer {

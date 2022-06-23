@@ -1,0 +1,23 @@
+
+
+
+    @mixin estilosTexto  ($color , $fontSize , $fontWeight) {
+        font-size: $fontSize ;
+    color: $color;
+    font-weight: $fontWeight ;
+    text-transform: uppercase;
+    text-align: start;
+    
+    }
+    
+
+
+.titulo_contacto--huno {
+
+    @include estilosTexto(rgb(126, 119, 119), 150px , 500 ) 
+
+}
+
+.titulo_contacto--hdos  {
+    @include estilosTexto( blue, 100px , 400 )
+}
