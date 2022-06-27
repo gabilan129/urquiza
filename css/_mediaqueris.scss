@@ -31,7 +31,7 @@
 
     .titulo__imagen {
         position: absolute;
-        top: 50%;
+        top: 0%;
         left: 5%;
         transform: translate(170px);
         color: rgb(246, 247, 248);
@@ -46,7 +46,7 @@
         top: 50%;
         left: 0%;
 
-        transform: translate(5px);
+        transform: translate(0px);
         color: aliceblue;
         font-size: 50px;
         width: 100%;
@@ -166,6 +166,17 @@
     
     }
     
+    .titulo__imagen {
+        position: absolute;
+        top: 0%;
+        left: 5%;
+        transform: translate(170px);
+        color: rgb(246, 247, 248);
+        font-size: 50px;
+        width: 100%;
+    }
+
+
     
 
 

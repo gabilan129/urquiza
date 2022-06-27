@@ -591,7 +591,7 @@ table {
 
   .titulo__imagen, .titulo__imagen-argentina, .titulo__imagen-chevallier, .titulo__imagen-urquiza, .titulo__imagen-index {
     position: absolute;
-    top: 50%;
+    top: 0%;
     left: 5%;
     transform: translate(170px);
     color: rgb(246, 247, 248);
@@ -603,7 +603,7 @@ table {
     position: absolute;
     top: 50%;
     left: 0%;
-    transform: translate(5px);
+    transform: translate(0px);
     color: aliceblue;
     font-size: 50px;
     width: 100%;
@@ -681,6 +681,16 @@ table {
     height: 200px;
     background-size: 80%;
     background-attachment: fixed;
+  }
+
+  .titulo__imagen, .titulo__imagen-argentina, .titulo__imagen-chevallier, .titulo__imagen-urquiza, .titulo__imagen-index {
+    position: absolute;
+    top: 0%;
+    left: 5%;
+    transform: translate(170px);
+    color: rgb(246, 247, 248);
+    font-size: 50px;
+    width: 100%;
   }
 
   .formulario {
