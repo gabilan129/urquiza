@@ -8,6 +8,7 @@
 .reflejo figure {
 	position: relative;
 }
+
 .reflejo figure::before {
 	position: absolute;
 	top: 0;
@@ -17,11 +18,12 @@
 	content: '';
 	width: 50%;
 	height: 100%;
-	background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
-	background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+	background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .3) 100%);
+	background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .3) 100%);
 	-webkit-transform: skewX(-25deg);
 	transform: skewX(-25deg);
 }
+
 .reflejo figure:hover::before {
 	-webkit-animation: shine .75s;
 	animation: shine .75s;
@@ -32,6 +34,7 @@
 		left: 125%;
 	}
 }
+
 @keyframes shine {
 	100% {
 		left: 125%;
@@ -41,35 +44,19 @@
 
 
 .titulo__imagen {
-    
-    position: absolute;
-    top: 10%;
-    left: 10%;
-    width: 100%;
-    
+
+	position: absolute;
+	top: 10%;
+	left: 10%;
+	width: 100%;
+
 }
 
 
 .titulo__imagen-chevallier {
-    @extend .titulo__imagen;
-    transform: translate(5px);
-    color: rgb(226, 3, 3);
-    font-size: 150px;
-    
+	@extend .titulo__imagen;
+	transform: translate(5px);
+	color: rgb(226, 3, 3);
+	font-size: 150px;
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

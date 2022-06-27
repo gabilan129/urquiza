@@ -7,10 +7,10 @@
 
     .accordion__div--informe {
         display: flex;
-        flex-wrap: wrap;   
-       overflow: hidden;
-        
-    
+        flex-wrap: wrap;
+        overflow: hidden;
+
+
     }
 
 
@@ -19,14 +19,14 @@
     .contenedor__titulo--imagen {
         position: relative;
         overflow: hidden;
-        
+
     }
 
     .accordion_div--control {
 
         width: $videoTamañoMovil;
-        }
-        
+    }
+
 
 
     .titulo__imagen {
@@ -45,7 +45,7 @@
         position: absolute;
         top: 50%;
         left: 0%;
-        
+
         transform: translate(5px);
         color: aliceblue;
         font-size: 50px;
@@ -78,9 +78,7 @@
     .main__div__taller--index {
 
         margin: auto;
-        /* display: flex; */
-        /* flex-direction: row; */
-        /* justify-content: center; */
+
         display: grid;
         grid-template-columns: 1fr;
         justify-items: center;
@@ -120,9 +118,7 @@
     .main__div__taller--index {
 
         margin: auto;
-        /* display: flex; */
-        /* flex-direction: row; */
-        /* justify-content: center; */
+
         display: grid;
         grid-template-columns: 1fr;
         justify-items: center;
@@ -162,15 +158,13 @@
 
 
 
-    
+
 
 
     .main__div__taller--index {
 
         margin: auto;
-        /* display: flex; */
-        /* flex-direction: row; */
-        /* justify-content: center; */
+
         display: grid;
         grid-template-columns: 1fr;
 
@@ -239,15 +233,13 @@
 
 
 
-  
+
 
 
     .main__div__taller--index {
         gap: 10px;
         margin: auto;
-        /* display: flex; */
-        /* flex-direction: row; */
-        /* justify-content: center; */
+
         display: grid;
         grid-template-columns: 1fr;
 
@@ -274,7 +266,7 @@
         background-color: rgb(91, 116, 131);
 
         margin-bottom: 0px;
-        /*pruba*/
+
 
         position: static;
         left: 0;
@@ -309,4 +301,3 @@
 
 
 }
-

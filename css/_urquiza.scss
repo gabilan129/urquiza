@@ -1,17 +1,24 @@
-
 @import "./mapas";
 @import "./extend";
 @import "./mixin";
 
 
 
+
+
+
+
+
+
+
+
 .titulo__imagen {
-    
+
     position: absolute;
     top: 10%;
     left: 10%;
     width: 100%;
-    
+
 }
 
 
@@ -20,5 +27,5 @@
     transform: translate(5px);
     color: rgb(14, 98, 172);
     font-size: 150px;
-    
+
 }

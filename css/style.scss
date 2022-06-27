@@ -1,111 +1,3 @@
-
-
-
-
-/*
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: fantasy;
-    font-size: 20px;
-    
-}
-
-simepre usar esta propiedad para resetar el css predeterminado de la pagina*/
-
-/*
-
-
-
-body {
-    background-color: rgb(216, 219, 221);
-    display: grid;
-    grid-template-rows: auto 1fr auto;
-    grid-template-columns: 1fr;
-
-}
-
-
-
-h2 {
-    font-family: fantasy;
-    font-size: 50px;
-    color: rgb(0, 0, 0);
-}
-
-
-
-footer {
-    width: 100%;
-    display: flex;
-    justify-items: end;
-    justify-content: space-around;
-    align-items: center;
-    flex-direction: row-reverse;
-    color: white;
-    background-color: rgb(91, 116, 131);
-    padding: 0px 0px;
-    margin-bottom: 0px;
-    height: 100%;
-}
-
-
-
-
-.logo {
-
-
-    width: 100px;
-
-
-
-}
-
-.nav__li--logoEmpresas {
-    width: 200px;
-}
-
-.nav__li--contacto {
-    width: 75px;
-}
-
-.div__micros__section--one {
-    display: flex;
-    flex-direction: column;
-    justify-items: center;
-    align-items: center;
-    margin-top: 300px;
-    margin-bottom: 0px;
-}
-
-
-.main__section--one--micros {
-    display: grid;
-    grid-template-rows: 1fr 20px;
-
-
-}
-
-.contenedor__titulo--imagen {
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-    
-}
-
-.main__div--imagenes {
-    width: 100%;
-
-}
-
-
-
-
-
-*/
-
-
 @import "./variables";
 @import "./empargentina";
 @import "./chevallier";
@@ -120,12 +12,12 @@ footer {
 
 
 
-*{
-margin: 0;
-padding: 0;
-box-sizing: border-box;
-font-family: fantasy;
-font-size: 20px;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: fantasy;
+    font-size: 20px;
 
 }
 
@@ -389,7 +281,7 @@ table {
 .main__section--one--micros {
     display: grid;
     grid-template-rows: 1fr 20px;
-    
+
 
 }
 
@@ -452,13 +344,13 @@ table {
     position: relative;
     overflow: hidden;
     width: 100%;
-    
+
 }
 
 
-   .argentina {
+.argentina {
     font-size: 130px;
-   }
+}
 
 
 .imagen__carrusel {
@@ -466,26 +358,10 @@ table {
 
 }
 
-.section__formulario{
+.section__formulario {
     margin: 2rem;
 }
 
 
 
 @import "./mediaqueris"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
