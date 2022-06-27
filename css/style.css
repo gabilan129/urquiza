@@ -594,7 +594,7 @@ table {
     top: 50%;
     left: 5%;
     transform: translate(170px);
-    color: rgb(39, 128, 206);
+    color: rgb(246, 247, 248);
     font-size: 50px;
     width: 100%;
   }
@@ -637,27 +637,6 @@ table {
     display: none;
   }
 }
-.div__titulo__paralaxUno {
-  background: url(../assets/2urquiza-logo.png) no-repeat center center;
-  height: 200px;
-  background-size: 80%;
-  background-attachment: fixed;
-}
-
-.div__titulo__paralaxDos {
-  background: url(../assets/chevallier-logo.png) no-repeat center center;
-  height: 200px;
-  background-size: 80%;
-  background-attachment: fixed;
-}
-
-.div__titulo__paralaxTres {
-  background: url(../assets/empresaargentina-logo.png) no-repeat center center;
-  height: 200px;
-  background-size: 80%;
-  background-attachment: fixed;
-}
-
 @media screen and (max-width: 768px) {
   .contenedor__titulo--imagen {
     position: relative;
@@ -683,6 +662,27 @@ table {
   }
 }
 @media screen and (max-width: 480px) {
+  .div__titulo__paralaxUno {
+    background: url(../assets/2urquiza-logo.png) no-repeat center center;
+    height: 200px;
+    background-size: 80%;
+    background-attachment: fixed;
+  }
+
+  .div__titulo__paralaxDos {
+    background: url(../assets/chevallier-logo.png) no-repeat center center;
+    height: 200px;
+    background-size: 80%;
+    background-attachment: fixed;
+  }
+
+  .div__titulo__paralaxTres {
+    background: url(../assets/empresaargentina-logo.png) no-repeat center center;
+    height: 200px;
+    background-size: 80%;
+    background-attachment: fixed;
+  }
+
   .formulario {
     background-color: white;
     border: 2px solid;
