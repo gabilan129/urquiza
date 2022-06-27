@@ -1,9 +1,8 @@
-
 @import "./variables";
 
 .accordion_div--control {
 
-width: $videoTamañoEscritorio;
+    width: $videoTamañoEscritorio;
 }
 
 
@@ -12,17 +11,17 @@ width: $videoTamañoEscritorio;
     flex-wrap: wrap;
     flex-direction: column;
     width: 100%;
-    
+
 
 }
 
 .titulo__imagen {
-    
+
     position: absolute;
     top: 10%;
     left: 10%;
     width: 100%;
-    
+
 }
 
 
@@ -31,7 +30,33 @@ width: $videoTamañoEscritorio;
     transform: translate(5px);
     color: rgb(253, 253, 253);
     font-size: 150px;
-    
+
 }
 
 
+
+.div__titulo__paralaxUno {
+    background: url(../assets/2urquiza-logo.png) no-repeat center center ;
+    height: 200px;
+    background-attachment: fixed;
+
+}
+.div__titulo__paralaxDos {
+    background: url(../assets/chevallier-logo.png) no-repeat center center;
+    height: 200px;
+    background-attachment: fixed;
+}
+
+.div__titulo__paralaxTres {
+    background: url(../assets/empresaargentina-logo.png) no-repeat center center;
+    height: 200px;
+    background-attachment: fixed;
+}
+
+
+
+.titulo__secundario {
+    color: red;
+    font-size: 100px;
+    text-align: center;
+}

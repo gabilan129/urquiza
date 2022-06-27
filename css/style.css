@@ -99,6 +99,30 @@ footer {
 
 
 */
+.main__list {
+  color: grey;
+  text-align: center;
+  margin: auto;
+  width: 50;
+  font-family: fantasy;
+}
+
+.titulo_contacto--huno {
+  font-size: 150px;
+  color: rgb(126, 119, 119);
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: start;
+}
+
+.titulo_contacto--hdos {
+  font-size: 100px;
+  color: blue;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: start;
+}
+
 .titulo__imagen, .titulo__imagen-index, .titulo__imagen-urquiza, .titulo__imagen-chevallier, .titulo__imagen-argentina {
   position: absolute;
   top: 10%;
@@ -243,6 +267,30 @@ footer {
   font-size: 150px;
 }
 
+.div__titulo__paralaxUno {
+  background: url(../assets/2urquiza-logo.png) no-repeat center center;
+  height: 200px;
+  background-attachment: fixed;
+}
+
+.div__titulo__paralaxDos {
+  background: url(../assets/chevallier-logo.png) no-repeat center center;
+  height: 200px;
+  background-attachment: fixed;
+}
+
+.div__titulo__paralaxTres {
+  background: url(../assets/empresaargentina-logo.png) no-repeat center center;
+  height: 200px;
+  background-attachment: fixed;
+}
+
+.titulo__secundario {
+  color: red;
+  font-size: 100px;
+  text-align: center;
+}
+
 .main__list {
   color: grey;
   text-align: center;
@@ -276,6 +324,7 @@ footer {
 }
 
 /*simepre usar esta propiedad para resetar el css predeterminado de la pagina*/
+/*CLASES*/
 body {
   background-color: rgb(216, 219, 221);
   display: grid;
@@ -297,13 +346,23 @@ footer {
   height: 100%;
 }
 
-/*CLASES*/
 .logo {
   width: 100px;
 }
+.logo:hover {
+  transform: scale(1.1);
+}
 
-.logo:hover,
-.nav__li--logoEmpresas:hover,
+.nav__li--logoEmpresas {
+  width: 200px;
+}
+.nav__li--logoEmpresas:hover {
+  transform: scale(1.1);
+}
+
+.nav__li--contacto {
+  width: 75px;
+}
 .nav__li--contacto:hover {
   transform: scale(1.1);
 }
@@ -323,14 +382,6 @@ footer {
   display: inline;
   font-size: 30px;
   margin: 40px 40px;
-}
-
-.nav__li--contacto {
-  width: 75px;
-}
-
-.nav__li--logoEmpresas {
-  width: 200px;
 }
 
 .main {
@@ -365,9 +416,6 @@ footer {
 .main__div__taller--index {
   gap: 10px;
   margin: auto;
-  /* display: flex; */
-  /* flex-direction: row; */
-  /* justify-content: center; */
   display: grid;
   grid-template-columns: 1fr 1fr;
   justify-items: center;
@@ -390,7 +438,6 @@ footer {
 .footer__logo--redes {
   width: 50px;
 }
-
 .footer__logo--redes:hover {
   transform: scale(2.5);
 }
@@ -413,7 +460,6 @@ footer {
   border-color: black;
   border-radius: 1em;
   font-family: fantasy;
-  /* margin: auto; */
   display: flex;
   flex-direction: column;
   align-items: stretch;
@@ -522,6 +568,10 @@ table {
   margin: 2rem;
 }
 
+.efecto__paralax {
+  background-attachment: fixed;
+}
+
 /*RESPONSIVE*/
 @media screen and (max-width: 1200px) {
   .accordion__div--informe {
@@ -577,9 +627,6 @@ table {
 
   .main__div__taller--index {
     margin: auto;
-    /* display: flex; */
-    /* flex-direction: row; */
-    /* justify-content: center; */
     display: grid;
     grid-template-columns: 1fr;
     justify-items: center;
@@ -590,6 +637,27 @@ table {
     display: none;
   }
 }
+.div__titulo__paralaxUno {
+  background: url(../assets/2urquiza-logo.png) no-repeat center center;
+  height: 200px;
+  background-size: 80%;
+  background-attachment: fixed;
+}
+
+.div__titulo__paralaxDos {
+  background: url(../assets/chevallier-logo.png) no-repeat center center;
+  height: 200px;
+  background-size: 80%;
+  background-attachment: fixed;
+}
+
+.div__titulo__paralaxTres {
+  background: url(../assets/empresaargentina-logo.png) no-repeat center center;
+  height: 200px;
+  background-size: 80%;
+  background-attachment: fixed;
+}
+
 @media screen and (max-width: 768px) {
   .contenedor__titulo--imagen {
     position: relative;
@@ -604,9 +672,6 @@ table {
 
   .main__div__taller--index {
     margin: auto;
-    /* display: flex; */
-    /* flex-direction: row; */
-    /* justify-content: center; */
     display: grid;
     grid-template-columns: 1fr;
     justify-items: center;
@@ -636,9 +701,6 @@ table {
 
   .main__div__taller--index {
     margin: auto;
-    /* display: flex; */
-    /* flex-direction: row; */
-    /* justify-content: center; */
     display: grid;
     grid-template-columns: 1fr;
     width: 70vh;
@@ -686,9 +748,6 @@ table {
   .main__div__taller--index {
     gap: 10px;
     margin: auto;
-    /* display: flex; */
-    /* flex-direction: row; */
-    /* justify-content: center; */
     display: grid;
     grid-template-columns: 1fr;
     width: 70vh;
@@ -707,7 +766,6 @@ table {
     color: white;
     background-color: rgb(91, 116, 131);
     margin-bottom: 0px;
-    /*pruba*/
     position: static;
     left: 0;
     bottom: 0;

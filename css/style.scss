@@ -1,7 +1,3 @@
-
-
-
-
 /*
 * {
     margin: 0;
@@ -120,12 +116,12 @@ footer {
 
 
 
-*{
-margin: 0;
-padding: 0;
-box-sizing: border-box;
-font-family: fantasy;
-font-size: 20px;
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: fantasy;
+	font-size: 20px;
 
 }
 
@@ -140,6 +136,7 @@ body {
 	grid-template-rows: auto 1fr auto;
 	grid-template-columns: 1fr;
 }
+
 footer {
 	width: 100%;
 	display: flex;
@@ -153,24 +150,31 @@ footer {
 	margin-bottom: 0px;
 	height: 100%;
 }
+
 .logo {
 	width: 100px;
+
 	&:hover {
 		transform: scale(1.1);
 	}
 }
+
 .nav__li--logoEmpresas {
 	&:hover {
 		transform: scale(1.1);
 	}
+
 	width: 200px;
 }
+
 .nav__li--contacto {
 	&:hover {
 		transform: scale(1.1);
 	}
+
 	width: 75px;
 }
+
 .header__contenedor {
 	opacity: 0.9;
 	background-color: rgb(10, 153, 163);
@@ -181,17 +185,20 @@ footer {
 	flex-wrap: wrap;
 	width: 100%;
 }
+
 .nav__li {
 	display: inline;
 	font-size: 30px;
 	margin: 40px 40px;
 }
+
 .main {
 	display: grid;
 	grid-template-rows: 1fr 24rem 8rem;
 	margin-top: 50px;
 	text-align: center;
 }
+
 .main__titulo {
 	display: flex;
 	text-shadow: rgb(69, 124, 196) 5px 2px 54px;
@@ -201,6 +208,7 @@ footer {
 	margin-top: 40px;
 	justify-content: center;
 }
+
 .main__section--one {
 	margin-top: 200px;
 	display: grid;
@@ -208,9 +216,11 @@ footer {
 	gap: 10rem;
 	justify-items: center;
 }
+
 .main__imagenes {
 	width: 100%;
 }
+
 .main__div__taller--index {
 	gap: 10px;
 	margin: auto;
@@ -220,6 +230,7 @@ footer {
 	justify-content: center;
 	width: 50%;
 }
+
 .main__section-parrafo {
 	color: $rojo;
 	text-align: center;
@@ -227,25 +238,31 @@ footer {
 	width: 50%;
 	font-family: fantasy;
 }
+
 .main__logoCNRT {
 	width: 600px;
 }
+
 .footer__logo--redes {
 	width: 50px;
+
 	&:hover {
 		transform: scale(2.5);
 	}
 }
+
 .section__table {
 	margin: auto;
 	font-size: 20px;
 }
+
 .section__table--div {
 	display: flex;
 	justify-content: center;
 	text-align: center;
 	font-family: fantasy;
 }
+
 .formulario {
 	background-color: white;
 	border: 2px solid;
@@ -260,34 +277,41 @@ footer {
 	margin-left: auto;
 	margin-right: auto;
 }
+
 table {
 	background-color: aliceblue;
 }
+
 .main__contacto {
 	padding-top: 150px;
 	display: grid;
 	grid-template-columns: 1fr;
 	justify-content: center;
 }
+
 .div__texto {
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
 	width: 100%;
 }
+
 .div__main__logoCNRT {
 	width: 100%;
 }
+
 .div__section__dos__index {
 	display: grid;
 	justify-items: center;
 	grid-template-rows: 1fr;
 	justify-content: center;
 }
+
 .main__section--one--micros {
 	display: grid;
 	grid-template-rows: 1fr 20px;
 }
+
 .div__micros__section--one {
 	display: flex;
 	flex-direction: column;
@@ -296,24 +320,29 @@ table {
 	margin-top: 300px;
 	margin-bottom: 0px;
 }
+
 .main__div--imagenes {
 	width: 100%;
 }
+
 .div_taller--uno {
 	display: flex;
 	flex-direction: column;
 	width: 100%;
 }
+
 .div_taller--dos {
 	display: flex;
 	flex-direction: column;
 	width: 100%;
 }
+
 .main__section--two {
 	display: grid;
 	grid-template-rows: 1fr;
 	gap: 10px;
 }
+
 .main__titulo--micros {
 	display: flex;
 	text-shadow: rgb(69, 124, 196) 5px 2px 54px;
@@ -323,36 +352,37 @@ table {
 	padding: 40px;
 	justify-content: center;
 }
+
 .mapa {
 	width: 50%;
 	display: flex;
 	justify-content: flex-end;
 }
+
 .contenedor__titulo--imagen {
 	position: relative;
 	overflow: hidden;
 	width: 100%;
 }
+
 .argentina {
 	font-size: 130px;
 }
+
 .imagen__carrusel {
 	height: 200px;
 }
+
 .section__formulario {
 	margin: 2rem;
 }
 
 
+.efecto__paralax {
+	background-attachment: fixed;
+}
 
 @import "./mediaqueris"
-
-
-
-
-
-
-
 
 
 

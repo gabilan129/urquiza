@@ -94,6 +94,34 @@
 }
 
 
+
+.div__titulo__paralaxUno {
+    background: url(../assets/2urquiza-logo.png) no-repeat center center ;
+    height: 200px;
+    background-size: 80%;
+    background-attachment: fixed;
+
+}
+.div__titulo__paralaxDos {
+    background: url(../assets/chevallier-logo.png) no-repeat center center;
+    height: 200px;
+    background-size: 80%;
+    background-attachment: fixed;
+}
+
+.div__titulo__paralaxTres {
+    background: url(../assets/empresaargentina-logo.png) no-repeat center center;
+    height: 200px;
+    background-size: 80%; 
+    background-attachment: fixed;
+
+}
+
+
+
+
+
+
 @media screen and (max-width: 768px) {
 
     .contenedor__titulo--imagen {
