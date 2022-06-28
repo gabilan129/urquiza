@@ -63,15 +63,11 @@
     }
 
 
-
-
-
     .card__colum--movil {
         display: flex;
         flex-direction: column;
         align-items: center;
     }
-
 
 
     .main__div__taller--index {
@@ -93,12 +89,6 @@
 }
 
 
-
-
-
-
-
-
 @media screen and (max-width: 768px) {
 
     .contenedor__titulo--imagen {
@@ -106,10 +96,6 @@
         overflow: hidden;
 
     }
-
-
-
-
 
 
     .card__colum--movil {
@@ -123,7 +109,6 @@
     .main__div__taller--index {
 
         margin: auto;
-
         display: grid;
         grid-template-columns: 1fr;
         justify-items: center;
@@ -187,7 +172,6 @@
         border-color: black;
         border-radius: 1em;
         font-family: fantasy;
-        /* margin: auto; */
         display: flex;
         flex-direction: column;
         align-items: stretch;
@@ -213,11 +197,6 @@
         width: 70vh;
     }
 
-
-
-
-
-
     .mapouter {
         display: none;
     }
@@ -232,8 +211,6 @@
         background-color: rgb(91, 116, 131);
         align-content: flex-end;
         margin-bottom: 0px;
-        /*pruba*/
-
         position: static;
         left: 0;
         bottom: 0;
@@ -273,11 +250,6 @@
 @media screen and (max-width: 360px) {
 
 
-
-
-
-
-
     .main__div__taller--index {
         gap: 10px;
         margin: auto;
@@ -287,10 +259,6 @@
 
         width: 70vh;
     }
-
-
-
-
 
 
     .mapouter {

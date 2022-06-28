@@ -1,17 +1,13 @@
-$colores : (
-    rojo : red ,
-    azul : blue ,
-    verde : green ,
-    rosa : pink ,
-    viole : violet ,
-    naranja : orange ,
-    gris : grey
-);
+$colores : (rojo : red,
+    azul : blue,
+    verde : green,
+    rosa : pink,
+    viole : violet,
+    naranja : orange,
+    gris : grey);
 
-$tamañoPorcentaje : (
-
-    completo : 100% ,
-    medio : 50 ,
+$tamañoPorcentaje : (completo : 100%,
+    medio : 50,
 
 
 );
@@ -21,10 +17,10 @@ $tamañoPorcentaje : (
 .main__list {
 
 
-    color: map-get($colores , gris );
+    color: map-get($colores, gris);
     text-align: center;
     margin: auto;
-    width: map-get($tamañoPorcentaje , medio );
+    width: map-get($tamañoPorcentaje, medio);
     font-family: fantasy;
 
 }

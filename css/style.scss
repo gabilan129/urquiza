@@ -1,114 +1,9 @@
-/*
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: fantasy;
-    font-size: 20px;
-    
-}
-
-simepre usar esta propiedad para resetar el css predeterminado de la pagina*/
-
-/*
-
-
-
-body {
-    background-color: rgb(216, 219, 221);
-    display: grid;
-    grid-template-rows: auto 1fr auto;
-    grid-template-columns: 1fr;
-
-}
-
-
-
-h2 {
-    font-family: fantasy;
-    font-size: 50px;
-    color: rgb(0, 0, 0);
-}
-
-
-
-footer {
-    width: 100%;
-    display: flex;
-    justify-items: end;
-    justify-content: space-around;
-    align-items: center;
-    flex-direction: row-reverse;
-    color: white;
-    background-color: rgb(91, 116, 131);
-    padding: 0px 0px;
-    margin-bottom: 0px;
-    height: 100%;
-}
-
-
-
-
-.logo {
-
-
-    width: 100px;
-
-
-
-}
-
-.nav__li--logoEmpresas {
-    width: 200px;
-}
-
-.nav__li--contacto {
-    width: 75px;
-}
-
-.div__micros__section--one {
-    display: flex;
-    flex-direction: column;
-    justify-items: center;
-    align-items: center;
-    margin-top: 300px;
-    margin-bottom: 0px;
-}
-
-
-.main__section--one--micros {
-    display: grid;
-    grid-template-rows: 1fr 20px;
-
-
-}
-
-.contenedor__titulo--imagen {
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-    
-}
-
-.main__div--imagenes {
-    width: 100%;
-
-}
-
-
-
-
-
-*/
-
-
 @import "./variables";
 @import "./empargentina";
 @import "./chevallier";
 @import "./urquiza";
 @import "./index";
 @import "./mapas";
-
 @import "./mixin";
 
 
@@ -129,7 +24,6 @@ footer {
 
 
 
-/*CLASES*/
 body {
 	background-color: rgb(216, 219, 221);
 	display: grid;
@@ -151,6 +45,7 @@ footer {
 	height: 100%;
 }
 
+/*CLASES*/
 .logo {
 	width: 100px;
 
@@ -377,18 +272,44 @@ table {
 	margin: 2rem;
 }
 
+/*Efecto animado sobre las imagenes*/
 
-.efecto__paralax {
-	background-attachment: fixed;
+.reflejo figure {
+	position: relative;
 }
 
+.reflejo figure::before {
+	position: absolute;
+	top: 0;
+	left: -75%;
+	z-index: 2;
+	display: block;
+	content: '';
+	width: 50%;
+	height: 100%;
+	background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .3) 100%);
+	background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .3) 100%);
+	-webkit-transform: skewX(-25deg);
+	transform: skewX(-25deg);
+}
+
+.reflejo figure:hover::before {
+	-webkit-animation: shine .75s;
+	animation: shine .75s;
+}
+
+@-webkit-keyframes shine {
+	100% {
+		left: 125%;
+	}
+}
+
+@keyframes shine {
+	100% {
+		left: 125%;
+	}
+}
+
+
+
 @import "./mediaqueris"
-
-
-
-
-
-
-
-
-
