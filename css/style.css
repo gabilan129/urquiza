@@ -1,104 +1,3 @@
-/*
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: fantasy;
-    font-size: 20px;
-
-}
-
-simepre usar esta propiedad para resetar el css predeterminado de la pagina*/
-/*
-
-
-
-body {
-    background-color: rgb(216, 219, 221);
-    display: grid;
-    grid-template-rows: auto 1fr auto;
-    grid-template-columns: 1fr;
-
-}
-
-
-
-h2 {
-    font-family: fantasy;
-    font-size: 50px;
-    color: rgb(0, 0, 0);
-}
-
-
-
-footer {
-    width: 100%;
-    display: flex;
-    justify-items: end;
-    justify-content: space-around;
-    align-items: center;
-    flex-direction: row-reverse;
-    color: white;
-    background-color: rgb(91, 116, 131);
-    padding: 0px 0px;
-    margin-bottom: 0px;
-    height: 100%;
-}
-
-
-
-
-.logo {
-
-
-    width: 100px;
-
-
-
-}
-
-.nav__li--logoEmpresas {
-    width: 200px;
-}
-
-.nav__li--contacto {
-    width: 75px;
-}
-
-.div__micros__section--one {
-    display: flex;
-    flex-direction: column;
-    justify-items: center;
-    align-items: center;
-    margin-top: 300px;
-    margin-bottom: 0px;
-}
-
-
-.main__section--one--micros {
-    display: grid;
-    grid-template-rows: 1fr 20px;
-
-
-}
-
-.contenedor__titulo--imagen {
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-
-}
-
-.main__div--imagenes {
-    width: 100%;
-
-}
-
-
-
-
-
-*/
 .main__list {
   color: grey;
   text-align: center;
@@ -108,7 +7,7 @@ footer {
 }
 
 .titulo_contacto--huno {
-  font-size: 150px;
+  font-size: 90px;
   color: rgb(126, 119, 119);
   font-weight: 500;
   text-transform: uppercase;
@@ -116,7 +15,7 @@ footer {
 }
 
 .titulo_contacto--hdos {
-  font-size: 100px;
+  font-size: 80px;
   color: blue;
   font-weight: 400;
   text-transform: uppercase;
@@ -145,7 +44,7 @@ footer {
 }
 
 .titulo_contacto--huno {
-  font-size: 150px;
+  font-size: 90px;
   color: rgb(126, 119, 119);
   font-weight: 500;
   text-transform: uppercase;
@@ -153,7 +52,7 @@ footer {
 }
 
 .titulo_contacto--hdos {
-  font-size: 100px;
+  font-size: 80px;
   color: blue;
   font-weight: 400;
   text-transform: uppercase;
@@ -161,38 +60,6 @@ footer {
 }
 
 /*ANIMACION DE LA IMAGEN CHEVALLIER*/
-.reflejo figure {
-  position: relative;
-}
-
-.reflejo figure::before {
-  position: absolute;
-  top: 0;
-  left: -75%;
-  z-index: 2;
-  display: block;
-  content: "";
-  width: 50%;
-  height: 100%;
-  background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.3) 100%);
-  transform: skewX(-25deg);
-}
-
-.reflejo figure:hover::before {
-  -webkit-animation: shine 0.75s;
-  animation: shine 0.75s;
-}
-
-@-webkit-keyframes shine {
-  100% {
-    left: 125%;
-  }
-}
-@keyframes shine {
-  100% {
-    left: 125%;
-  }
-}
 .titulo__imagen, .titulo__imagen-index, .titulo__imagen-urquiza, .titulo__imagen-chevallier, .titulo__imagen-argentina {
   position: absolute;
   top: 10%;
@@ -215,7 +82,7 @@ footer {
 }
 
 .titulo_contacto--huno {
-  font-size: 150px;
+  font-size: 90px;
   color: rgb(126, 119, 119);
   font-weight: 500;
   text-transform: uppercase;
@@ -223,7 +90,7 @@ footer {
 }
 
 .titulo_contacto--hdos {
-  font-size: 100px;
+  font-size: 80px;
   color: blue;
   font-weight: 400;
   text-transform: uppercase;
@@ -300,7 +167,7 @@ footer {
 }
 
 .titulo_contacto--huno {
-  font-size: 150px;
+  font-size: 90px;
   color: rgb(126, 119, 119);
   font-weight: 500;
   text-transform: uppercase;
@@ -308,7 +175,7 @@ footer {
 }
 
 .titulo_contacto--hdos {
-  font-size: 100px;
+  font-size: 80px;
   color: blue;
   font-weight: 400;
   text-transform: uppercase;
@@ -324,7 +191,6 @@ footer {
 }
 
 /*simepre usar esta propiedad para resetar el css predeterminado de la pagina*/
-/*CLASES*/
 body {
   background-color: rgb(216, 219, 221);
   display: grid;
@@ -346,6 +212,7 @@ footer {
   height: 100%;
 }
 
+/*CLASES*/
 .logo {
   width: 100px;
 }
@@ -568,10 +435,39 @@ table {
   margin: 2rem;
 }
 
-.efecto__paralax {
-  background-attachment: fixed;
+/*Efecto animado sobre las imagenes*/
+.reflejo figure {
+  position: relative;
 }
 
+.reflejo figure::before {
+  position: absolute;
+  top: 0;
+  left: -75%;
+  z-index: 2;
+  display: block;
+  content: "";
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.3) 100%);
+  transform: skewX(-25deg);
+}
+
+.reflejo figure:hover::before {
+  -webkit-animation: shine 0.75s;
+  animation: shine 0.75s;
+}
+
+@-webkit-keyframes shine {
+  100% {
+    left: 125%;
+  }
+}
+@keyframes shine {
+  100% {
+    left: 125%;
+  }
+}
 /*RESPONSIVE*/
 @media screen and (max-width: 1200px) {
   .accordion__div--informe {
@@ -699,7 +595,6 @@ table {
     border-color: black;
     border-radius: 1em;
     font-family: fantasy;
-    /* margin: auto; */
     display: flex;
     flex-direction: column;
     align-items: stretch;
@@ -729,7 +624,6 @@ table {
     background-color: rgb(91, 116, 131);
     align-content: flex-end;
     margin-bottom: 0px;
-    /*pruba*/
     position: static;
     left: 0;
     bottom: 0;

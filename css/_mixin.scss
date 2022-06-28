@@ -11,9 +11,9 @@
 
 .titulo_contacto--huno {
 
-    @include estilosTexto(rgb(126, 119, 119), 150px, 500)
+    @include estilosTexto(rgb(126, 119, 119), 90px, 500)
 }
 
 .titulo_contacto--hdos {
-    @include estilosTexto(blue, 100px, 400)
+    @include estilosTexto(blue, 80px, 400)
 }
